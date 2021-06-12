@@ -1099,4 +1099,7 @@
   <programme start="20210612215000 +0100" stop="20210612231500 +0100" channel="SIC">
     <title lang="pt">Terra Nossa - Especial Euro</title>
   </programme>
+  <programme start="20210612231500 +0100" stop="20210613020000 +0100" channel="SIC">
+    <title lang="pt">Quem Quer Namorar Com O Agricultor? (A Semana)</title>
+  </programme>
 </tv>
