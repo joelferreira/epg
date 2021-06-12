@@ -958,4 +958,148 @@
   <programme start="20210612080000 +0100" stop="20210612095700 +0100" channel="RTP 1 HD">
     <title lang="pt">Bom Dia Portugal Fim de Semana</title>
   </programme>
+  <programme start="20210612095700 +0100" stop="20210612105500 +0100" channel="RTP 1 HD">
+    <title lang="pt">Extinções</title>
+  </programme>
+  <programme start="20210612105500 +0100" stop="20210612125900 +0100" channel="RTP 1 HD">
+    <title lang="pt">Aqui Portugal: Estarreja (Manhã)</title>
+  </programme>
+  <programme start="20210612125900 +0100" stop="20210612141500 +0100" channel="RTP 1 HD">
+    <title lang="pt">Jornal da Tarde</title>
+  </programme>
+  <programme start="20210612141500 +0100" stop="20210612145900 +0100" channel="RTP 1 HD">
+    <title lang="pt">Hora dos Portugueses</title>
+  </programme>
+  <programme start="20210612145900 +0100" stop="20210612190000 +0100" channel="RTP 1 HD">
+    <title lang="pt">Aqui Portugal: Estarreja (Tarde)</title>
+  </programme>
+  <programme start="20210612190000 +0100" stop="20210612195000 +0100" channel="RTP 1 HD">
+    <title lang="pt">Telejornal</title>
+  </programme>
+  <programme start="20210612195000 +0100" stop="20210612220000 +0100" channel="RTP 1 HD">
+    <title lang="pt">Bélgica x Rússia - Euro 2020 (Direto)</title>
+  </programme>
+  <programme start="20210612220000 +0100" stop="20210612225700 +0100" channel="RTP 1 HD">
+    <title lang="pt">Programa Cautelar</title>
+  </programme>
+  <programme start="20210612225700 +0100" stop="20210612230800 +0100" channel="RTP 1 HD">
+    <title lang="pt">Euro 2020 - Os Dias do Euro</title>
+  </programme>
+  <programme start="20210612230800 +0100" stop="20210613003700 +0100" channel="RTP 1 HD">
+    <title lang="pt">Got Talent Portugal - Semifinalistas</title>
+  </programme>
+  <programme start="20210612025000 +0100" stop="20210612054400 +0100" channel="RTP 2">
+    <title lang="pt">Euronews</title>
+  </programme>
+  <programme start="20210612054400 +0100" stop="20210612063200 +0100" channel="RTP 2">
+    <title lang="pt">Água De Mar</title>
+  </programme>
+  <programme start="20210612063200 +0100" stop="20210612070000 +0100" channel="RTP 2">
+    <title lang="pt">Repórter África</title>
+  </programme>
+  <programme start="20210612070000 +0100" stop="20210612080000 +0100" channel="RTP 2">
+    <title lang="pt">Euronews</title>
+  </programme>
+  <programme start="20210612080000 +0100" stop="20210612102700 +0100" channel="RTP 2">
+    <title lang="pt">Ginástica: Campeonato Da Europa De Ginástica Ritmica (Direto)</title>
+  </programme>
+  <programme start="20210612102700 +0100" stop="20210612104000 +0100" channel="RTP 2">
+    <title lang="pt">Cuidado com a Língua!</title>
+  </programme>
+  <programme start="20210612104000 +0100" stop="20210612132300 +0100" channel="RTP 2">
+    <title lang="pt">Ginástica: Campeonato Da Europa De Ginástica Ritmica (Direto)</title>
+  </programme>
+  <programme start="20210612132300 +0100" stop="20210612133100 +0100" channel="RTP 2">
+    <title lang="pt">Peanuts</title>
+  </programme>
+  <programme start="20210612133100 +0100" stop="20210612135700 +0100" channel="RTP 2">
+    <title lang="pt">Encontra-me em Paris</title>
+  </programme>
+  <programme start="20210612135700 +0100" stop="20210612142300 +0100" channel="RTP 2">
+    <title lang="pt">Encontra-me em Paris</title>
+  </programme>
+  <programme start="20210612142300 +0100" stop="20210612143000 +0100" channel="RTP 2">
+    <title lang="pt">Folha de Sala</title>
+  </programme>
+  <programme start="20210612143000 +0100" stop="20210612160700 +0100" channel="RTP 2">
+    <title lang="pt">Ginástica: Campeonato Da Europa De Ginástica Ritmica (Direto)</title>
+  </programme>
+  <programme start="20210612160700 +0100" stop="20210612161500 +0100" channel="RTP 2">
+    <title lang="pt">Nome De Rua</title>
+  </programme>
+  <programme start="20210612161500 +0100" stop="20210612180300 +0100" channel="RTP 2">
+    <title lang="pt">Ginástica: Campeonato Da Europa De Ginástica Ritmica (Direto)</title>
+  </programme>
+  <programme start="20210612180300 +0100" stop="20210612180800 +0100" channel="RTP 2">
+    <title lang="pt">Folha de Sala</title>
+  </programme>
+  <programme start="20210612180800 +0100" stop="20210612182900 +0100" channel="RTP 2">
+    <title lang="pt">De Lisboa A Estocolmo</title>
+  </programme>
+  <programme start="20210612182900 +0100" stop="20210612190000 +0100" channel="RTP 2">
+    <title lang="pt">Biosfera</title>
+  </programme>
+  <programme start="20210612190000 +0100" stop="20210612195600 +0100" channel="RTP 2">
+    <title lang="pt">Candice Renoir</title>
+  </programme>
+  <programme start="20210612195600 +0100" stop="20210612203000 +0100" channel="RTP 2">
+    <title lang="pt">Faça Chuva Faça Sol</title>
+  </programme>
+  <programme start="20210612203000 +0100" stop="20210612212500 +0100" channel="RTP 2">
+    <title lang="pt">Bom Jesus Do Monte</title>
+  </programme>
+  <programme start="20210612212500 +0100" stop="20210612213000 +0100" channel="RTP 2">
+    <title lang="pt">Folha de Sala</title>
+  </programme>
+  <programme start="20210612213000 +0100" stop="20210612214800 +0100" channel="RTP 2">
+    <title lang="pt">Jornal 2</title>
+  </programme>
+  <programme start="20210612214800 +0100" stop="20210612220200 +0100" channel="RTP 2">
+    <title lang="pt">Página 2</title>
+  </programme>
+  <programme start="20210612220200 +0100" stop="20210613010900 +0100" channel="RTP 2">
+    <title lang="pt">Idomeneo</title>
+  </programme>
+  <programme start="20210612035500 +0100" stop="20210612060000 +0100" channel="SIC">
+    <title lang="pt">Televendas</title>
+  </programme>
+  <programme start="20210612060000 +0100" stop="20210612062500 +0100" channel="SIC">
+    <title lang="pt">Camilo, O Presidente</title>
+  </programme>
+  <programme start="20210612062500 +0100" stop="20210612070000 +0100" channel="SIC">
+    <title lang="pt">Etnias</title>
+  </programme>
+  <programme start="20210612070000 +0100" stop="20210612080500 +0100" channel="SIC">
+    <title lang="pt">Uma Aventura</title>
+  </programme>
+  <programme start="20210612080500 +0100" stop="20210612090500 +0100" channel="SIC">
+    <title lang="pt">Uma Aventura</title>
+  </programme>
+  <programme start="20210612090500 +0100" stop="20210612121000 +0100" channel="SIC">
+    <title lang="pt">Estamos Em Casa</title>
+  </programme>
+  <programme start="20210612121000 +0100" stop="20210612130000 +0100" channel="SIC">
+    <title lang="pt">Nosso Mundo</title>
+  </programme>
+  <programme start="20210612130000 +0100" stop="20210612140500 +0100" channel="SIC">
+    <title lang="pt">Primeiro Jornal</title>
+  </programme>
+  <programme start="20210612140500 +0100" stop="20210612150000 +0100" channel="SIC">
+    <title lang="pt">Alta Definição</title>
+  </programme>
+  <programme start="20210612150000 +0100" stop="20210612154500 +0100" channel="SIC">
+    <title lang="pt">E-Especial</title>
+  </programme>
+  <programme start="20210612154500 +0100" stop="20210612195700 +0100" channel="SIC">
+    <title lang="pt">Alô Marco Paulo</title>
+  </programme>
+  <programme start="20210612195700 +0100" stop="20210612215000 +0100" channel="SIC">
+    <title lang="pt">Jornal Da Noite</title>
+  </programme>
+  <programme start="20210612215000 +0100" stop="20210612231500 +0100" channel="SIC">
+    <title lang="pt">Terra Nossa - Especial Euro</title>
+  </programme>
+  <programme start="20210612231500 +0100" stop="20210613020000 +0100" channel="SIC">
+    <title lang="pt">Quem Quer Namorar Com O Agricultor? (A Semana)</title>
+  </programme>
 </tv>
