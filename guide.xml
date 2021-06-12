@@ -670,20 +670,20 @@
   <programme start="20210612163000 +0100" stop="20210612183000 +0100" channel="EUROSPORT 1 HD">
     <title lang="pt">Ténis: Roland Garros - Torneio Grand Slam (Direto)</title>
   </programme>
-  <programme start="20210612183000 +0100" stop="20210612193000 +0100" channel="EUROSPORT 1 HD">
+  <programme start="20210612183000 +0100" stop="20210612192900 +0100" channel="EUROSPORT 1 HD">
     <title lang="pt">Ténis: Roland Garros - Torneio Grand Slam</title>
   </programme>
-  <programme start="20210612193000 +0100" stop="20210612210000 +0100" channel="EUROSPORT 1 HD">
+  <programme start="20210612192900 +0100" stop="20210612210000 +0100" channel="EUROSPORT 1 HD">
     <title lang="pt">Ténis: Roland Garros - Torneio Grand Slam</title>
   </programme>
-  <programme start="20210612210000 +0100" stop="20210612220000 +0100" channel="EUROSPORT 1 HD">
+  <programme start="20210612210000 +0100" stop="20210612215700 +0100" channel="EUROSPORT 1 HD">
     <title lang="pt">Ciclismo: Volta à Bélgica</title>
   </programme>
-  <programme start="20210612220000 +0100" stop="20210612230000 +0100" channel="EUROSPORT 1 HD">
+  <programme start="20210612215700 +0100" stop="20210612225900 +0100" channel="EUROSPORT 1 HD">
     <title lang="pt">Ciclismo: Volta à Eslovénia</title>
   </programme>
-  <programme start="20210612230000 +0100" stop="20210613003000 +0100" channel="EUROSPORT 1 HD">
-    <title lang="pt">Snooker: Camp. Mundo</title>
+  <programme start="20210612225900 +0100" stop="20210613003200 +0100" channel="EUROSPORT 1 HD">
+    <title lang="pt">Snooker: Camp. Mundo, Sheffield</title>
   </programme>
   <programme start="20210612032500 +0100" stop="20210612042500 +0100" channel="SPORTING TV HD">
     <title lang="pt">Sporting Grande Jornal</title>
