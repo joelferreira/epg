@@ -103,931 +103,1150 @@
     <display-name lang="pt">TVI</display-name>
     <url>http://www.meo.pt</url>
   </channel>
-  <programme start="20210613031000 +0100" stop="20210613051000 +0100" channel="SPORT TV 1">
-    <title lang="pt">Bélgica x Rússia - EURO 2020</title>
+  <programme start="20210618030000 +0100" stop="20210618050000 +0100" channel="SPORT TV 1">
+    <title lang="pt">Dinamarca x Bélgica - EURO 2020</title>
   </programme>
-  <programme start="20210613051000 +0100" stop="20210613060000 +0100" channel="SPORT TV 1">
-    <title lang="pt">Pais De Gales x Suíça - EURO 2020</title>
+  <programme start="20210618050000 +0100" stop="20210618055000 +0100" channel="SPORT TV 1">
+    <title lang="pt">Ucrânia x Macedónia do Norte - EURO 2020</title>
   </programme>
-  <programme start="20210613060000 +0100" stop="20210613080000 +0100" channel="SPORT TV 1">
-    <title lang="pt">Turquia x Itália - EURO 2020</title>
+  <programme start="20210618055000 +0100" stop="20210618075500 +0100" channel="SPORT TV 1">
+    <title lang="pt">Países Baixos x Áustria - EURO 2020</title>
   </programme>
-  <programme start="20210613080000 +0100" stop="20210613085000 +0100" channel="SPORT TV 1">
-    <title lang="pt">Pais De Gales x Suíça - EURO 2020</title>
+  <programme start="20210618075500 +0100" stop="20210618084500 +0100" channel="SPORT TV 1">
+    <title lang="pt">Dinamarca x Bélgica - EURO 2020</title>
   </programme>
-  <programme start="20210613085000 +0100" stop="20210613105000 +0100" channel="SPORT TV 1">
-    <title lang="pt">Dinamarca x Finlândia - EURO 2020</title>
+  <programme start="20210618084500 +0100" stop="20210618105000 +0100" channel="SPORT TV 1">
+    <title lang="pt">Escócia x Rep. Checa - EURO 2020</title>
   </programme>
-  <programme start="20210613105000 +0100" stop="20210613125500 +0100" channel="SPORT TV 1">
-    <title lang="pt">Bélgica x Rússia - EURO 2020</title>
-  </programme>
-  <programme start="20210613125500 +0100" stop="20210613140000 +0100" channel="SPORT TV 1">
-    <title lang="pt">Pais De Gales x Suíça - EURO 2020</title>
-  </programme>
-  <programme start="20210613140000 +0100" stop="20210613161000 +0100" channel="SPORT TV 1">
-    <title lang="pt">Inglaterra x Croácia - EURO 2020 (Direto)</title>
-  </programme>
-  <programme start="20210613161000 +0100" stop="20210613170000 +0100" channel="SPORT TV 1">
-    <title lang="pt">Bélgica x Rússia - EURO 2020</title>
-  </programme>
-  <programme start="20210613170000 +0100" stop="20210613191000 +0100" channel="SPORT TV 1">
-    <title lang="pt">Áustria x Macedónia do Norte - EURO 2020 (Direto)</title>
-  </programme>
-  <programme start="20210613191000 +0100" stop="20210613200000 +0100" channel="SPORT TV 1">
+  <programme start="20210618105000 +0100" stop="20210618125000 +0100" channel="SPORT TV 1">
     <title lang="pt">Inglaterra x Croácia - EURO 2020</title>
   </programme>
-  <programme start="20210613200000 +0100" stop="20210613221000 +0100" channel="SPORT TV 1">
-    <title lang="pt">Países Baixos x Ucrânia - EURO 2020 (Direto)</title>
+  <programme start="20210618125000 +0100" stop="20210618140000 +0100" channel="SPORT TV 1">
+    <title lang="pt">Dinamarca x Bélgica - EURO 2020</title>
   </programme>
-  <programme start="20210613221000 +0100" stop="20210613230000 +0100" channel="SPORT TV 1">
-    <title lang="pt">Inglaterra x Croácia - EURO 2020</title>
+  <programme start="20210618140000 +0100" stop="20210618161000 +0100" channel="SPORT TV 1">
+    <title lang="pt">Suécia x Eslováquia - EURO 2020 (Direto)</title>
   </programme>
-  <programme start="20210613230000 +0100" stop="20210614010500 +0100" channel="SPORT TV 1">
-    <title lang="pt">Países Baixos x Ucrânia - EURO 2020</title>
+  <programme start="20210618161000 +0100" stop="20210618170000 +0100" channel="SPORT TV 1">
+    <title lang="pt">Países Baixos x Áustria - EURO 2020</title>
   </programme>
-  <programme start="20210613013000 +0100" stop="20210613040000 +0100" channel="SPORT TV 2">
-    <title lang="pt">NBA: LA Clippers x Utah - Jogo 3 (Direto)</title>
+  <programme start="20210618170000 +0100" stop="20210618191000 +0100" channel="SPORT TV 1">
+    <title lang="pt">Croácia x Rep. Checa - EURO 2020 (Direto)</title>
   </programme>
-  <programme start="20210613040000 +0100" stop="20210613060000 +0100" channel="SPORT TV 2">
-    <title lang="pt">Voleibol Fem.: China x Países Baixos - Liga das Nações</title>
+  <programme start="20210618191000 +0100" stop="20210618200000 +0100" channel="SPORT TV 1">
+    <title lang="pt">Suécia x Eslováquia - EURO 2020</title>
   </programme>
-  <programme start="20210613060000 +0100" stop="20210613080000 +0100" channel="SPORT TV 2">
-    <title lang="pt">Voleibol Fem.: Polónia x Brasil - Liga das Nações</title>
+  <programme start="20210618200000 +0100" stop="20210618221000 +0100" channel="SPORT TV 1">
+    <title lang="pt">Inglaterra x Escócia - EURO 2020 (Direto)</title>
   </programme>
-  <programme start="20210613080000 +0100" stop="20210613100000 +0100" channel="SPORT TV 2">
-    <title lang="pt">Andebol: Barcelona x Nantes - Meia-Final - Liga dos Campeões</title>
+  <programme start="20210618221000 +0100" stop="20210618230000 +0100" channel="SPORT TV 1">
+    <title lang="pt">Croácia x Rep. Checa - EURO 2020</title>
   </programme>
-  <programme start="20210613100000 +0100" stop="20210613110000 +0100" channel="SPORT TV 2">
-    <title lang="pt">Motociclismo: Moto3 - Barcelona Corrida 1 (Direto)</title>
+  <programme start="20210618230000 +0100" stop="20210619010000 +0100" channel="SPORT TV 1">
+    <title lang="pt">Suécia x Eslováquia - EURO 2020</title>
   </programme>
-  <programme start="20210613110000 +0100" stop="20210613120000 +0100" channel="SPORT TV 2">
-    <title lang="pt">Motociclismo: Moto2 - Barcelona Corrida 1 (Direto)</title>
+  <programme start="20210618030000 +0100" stop="20210618050000 +0100" channel="SPORT TV 2">
+    <title lang="pt">Ténis: ATP World Tour 500 - Halle - Melhor Jogo Do Dia</title>
   </programme>
-  <programme start="20210613120000 +0100" stop="20210613130000 +0100" channel="SPORT TV 2">
-    <title lang="pt">Motociclismo: Barcelona - Hawkers ETC (Direto)</title>
+  <programme start="20210618050000 +0100" stop="20210618053000 +0100" channel="SPORT TV 2">
+    <title lang="pt">Camp. Portugal Ralicross: Sever Do Vouga I - Resumo</title>
   </programme>
-  <programme start="20210613130000 +0100" stop="20210613140000 +0100" channel="SPORT TV 2">
-    <title lang="pt">Motociclismo: Moto3 - Barcelona Corrida 2 (Direto)</title>
+  <programme start="20210618053000 +0100" stop="20210618060000 +0100" channel="SPORT TV 2">
+    <title lang="pt">Motocrosse: Camp. Mundo - GP Rússia (Resumo)</title>
   </programme>
-  <programme start="20210613140000 +0100" stop="20210613150000 +0100" channel="SPORT TV 2">
-    <title lang="pt">Motociclismo: Moto2 - Barcelona Corrida 2 (Direto)</title>
+  <programme start="20210618060000 +0100" stop="20210618063000 +0100" channel="SPORT TV 2">
+    <title lang="pt">Camp. Portugal Ralicross: Sever Do Vouga I (Resumo)</title>
   </programme>
-  <programme start="20210613150000 +0100" stop="20210613173500 +0100" channel="SPORT TV 2">
-    <title lang="pt">Hipismo: Concurso Internacional Saltos - CSIO La Baule - GP</title>
+  <programme start="20210618063000 +0100" stop="20210618070000 +0100" channel="SPORT TV 2">
+    <title lang="pt">Automobilismo: Rampa Da Penha</title>
   </programme>
-  <programme start="20210613173500 +0100" stop="20210613185000 +0100" channel="SPORT TV 2">
-    <title lang="pt">Pentatlo Moderno: Cairo - Prova Masculina (Direto)</title>
+  <programme start="20210618070000 +0100" stop="20210618080000 +0100" channel="SPORT TV 2">
+    <title lang="pt">Motociclismo: World SBK Emilia-Romagna (Resumo)</title>
   </programme>
-  <programme start="20210613185000 +0100" stop="20210613195000 +0100" channel="SPORT TV 2">
-    <title lang="pt">Motociclismo: World SSP Emilia-Romagna - Corrida 2</title>
+  <programme start="20210618080000 +0100" stop="20210618085500 +0100" channel="SPORT TV 2">
+    <title lang="pt">MotoGP: GP Alemanha - Moto3 - Treinos Livres 1 (Direto)</title>
   </programme>
-  <programme start="20210613195000 +0100" stop="20210613205000 +0100" channel="SPORT TV 2">
-    <title lang="pt">Motociclismo: World SBK Emilia-Romagna - Corrida 2</title>
+  <programme start="20210618085500 +0100" stop="20210618095500 +0100" channel="SPORT TV 2">
+    <title lang="pt">MotoGP: GP Alemanha - Treinos Livres 1 (Direto)</title>
   </programme>
-  <programme start="20210613205000 +0100" stop="20210613220000 +0100" channel="SPORT TV 2">
-    <title lang="pt">Motociclismo: World SSP300 Emilia-Romagna - Corrida 2</title>
+  <programme start="20210618095500 +0100" stop="20210618105000 +0100" channel="SPORT TV 2">
+    <title lang="pt">MotoGP: GP Alemanha - Moto2 - Treinos Livres 1 (Direto)</title>
   </programme>
-  <programme start="20210613220000 +0100" stop="20210614000000 +0100" channel="SPORT TV 2">
-    <title lang="pt">Brasil x Venezuela - Copa América (Direto)</title>
+  <programme start="20210618105000 +0100" stop="20210618112000 +0100" channel="SPORT TV 2">
+    <title lang="pt">Automobilismo: Rali De Castelo Branco (Resumo)</title>
   </programme>
-  <programme start="20210613020000 +0100" stop="20210613085000 +0100" channel="SPORT TV 3">
-    <title lang="pt">Fora d\u0027Horas</title>
+  <programme start="20210618112000 +0100" stop="20210618114000 +0100" channel="SPORT TV 2">
+    <title lang="pt">Karting: Baltar (Resumo)</title>
   </programme>
-  <programme start="20210613085000 +0100" stop="20210613110000 +0100" channel="SPORT TV 3">
-    <title lang="pt">NBA: LA Clippers x Utah - Jogo 3</title>
+  <programme start="20210618114000 +0100" stop="20210618121500 +0100" channel="SPORT TV 2">
+    <title lang="pt">Motocrosse: Camp. Mundo - GP Rússia (Resumo)</title>
   </programme>
-  <programme start="20210613110000 +0100" stop="20210613130000 +0100" channel="SPORT TV 3">
-    <title lang="pt">Voleibol Fem.: Estados Unidos x Japão - Liga das Nações (Direto)</title>
+  <programme start="20210618121500 +0100" stop="20210618131000 +0100" channel="SPORT TV 2">
+    <title lang="pt">MotoGP: GP Alemanha - Moto3 - Treinos Livres 2 (Direto)</title>
   </programme>
-  <programme start="20210613130000 +0100" stop="20210613141500 +0100" channel="SPORT TV 3">
-    <title lang="pt">Premier League: Golos da Época - Magazine</title>
+  <programme start="20210618131000 +0100" stop="20210618141000 +0100" channel="SPORT TV 2">
+    <title lang="pt">MotoGP: GP Alemanha - Treinos Livres 2 (Direto)</title>
   </programme>
-  <programme start="20210613141500 +0100" stop="20210613160500 +0100" channel="SPORT TV 3">
-    <title lang="pt">Andebol: Final 4 - 3º e 4º Lugares - Liga dos Campeões (Direto)</title>
+  <programme start="20210618141000 +0100" stop="20210618150000 +0100" channel="SPORT TV 2">
+    <title lang="pt">MotoGP: GP Alemanha - Moto2 - Treinos Livres 2 (Direto)</title>
   </programme>
-  <programme start="20210613160500 +0100" stop="20210613170000 +0100" channel="SPORT TV 3">
-    <title lang="pt">Desportos Radicais: Sports Unlimited</title>
+  <programme start="20210618150000 +0100" stop="20210618170000 +0100" channel="SPORT TV 2">
+    <title lang="pt">Golfe: Meijer LPGA Classic For Simply Give - 2º Dia (Direto)</title>
   </programme>
-  <programme start="20210613170000 +0100" stop="20210613190000 +0100" channel="SPORT TV 3">
-    <title lang="pt">Andebol: Final 4 - Final - Liga dos Campeões (Direto)</title>
+  <programme start="20210618170000 +0100" stop="20210618190000 +0100" channel="SPORT TV 2">
+    <title lang="pt">Voleibol Fem.: Polónia x Estados Unidos - Liga das Nações (Direto)</title>
   </programme>
-  <programme start="20210613190000 +0100" stop="20210613200000 +0100" channel="SPORT TV 3">
-    <title lang="pt">Desportos Aquáticos: Watersports World</title>
+  <programme start="20210618190000 +0100" stop="20210618210000 +0100" channel="SPORT TV 2">
+    <title lang="pt">Brasil x Peru - Copa América</title>
   </programme>
-  <programme start="20210613200000 +0100" stop="20210613220000 +0100" channel="SPORT TV 3">
-    <title lang="pt">Voleibol Fem.: Alemanha x Brasil - Liga das Nações (Direto)</title>
+  <programme start="20210618210000 +0100" stop="20210618213000 +0100" channel="SPORT TV 2">
+    <title lang="pt">Premier 100 - Jimmy Floyd Hasselbaink</title>
   </programme>
-  <programme start="20210613220000 +0100" stop="20210613235000 +0100" channel="SPORT TV 3">
-    <title lang="pt">Futsal: Final Jogo 4 - Camp. Nacional</title>
+  <programme start="20210618213000 +0100" stop="20210618220000 +0100" channel="SPORT TV 2">
+    <title lang="pt">Liga Europa: Filme Oficial</title>
   </programme>
-  <programme start="20210613235000 +0100" stop="20210614014000 +0100" channel="SPORT TV 3">
-    <title lang="pt">Andebol: Final 4 - Final - Liga dos Campeões</title>
+  <programme start="20210618220000 +0100" stop="20210619000000 +0100" channel="SPORT TV 2">
+    <title lang="pt">Chile x Bolívia - Copa América (Direto)</title>
   </programme>
-  <programme start="20210613030000 +0100" stop="20210613085000 +0100" channel="SPORT TV 4">
-    <title lang="pt">Fora d’Horas</title>
-  </programme>
-  <programme start="20210613085000 +0100" stop="20210613092000 +0100" channel="SPORT TV 4">
-    <title lang="pt">Ténis: ATP World Tour Uncovered</title>
-  </programme>
-  <programme start="20210613092000 +0100" stop="20210613122000 +0100" channel="SPORT TV 4">
-    <title lang="pt">Golfe: LPGA Mediheal - 3º Dia</title>
-  </programme>
-  <programme start="20210613122000 +0100" stop="20210613123000 +0100" channel="SPORT TV 4">
-    <title lang="pt">Golfe: 3º Torneio Circuito FPG - Tróia</title>
-  </programme>
-  <programme start="20210613123000 +0100" stop="20210613165500 +0100" channel="SPORT TV 4">
-    <title lang="pt">Golfe: Scandinavian Mixed Hosted - 4º Dia - European Tour (Direto)</title>
-  </programme>
-  <programme start="20210613165500 +0100" stop="20210613175000 +0100" channel="SPORT TV 4">
-    <title lang="pt">Golfe: Irish Challenge (Resumo)</title>
-  </programme>
-  <programme start="20210613175000 +0100" stop="20210613200000 +0100" channel="SPORT TV 4">
-    <title lang="pt">IndyCar Series: Chevrolet Detroit GP - Corrida 2 (Direto)</title>
-  </programme>
-  <programme start="20210613200000 +0100" stop="20210613223000 +0100" channel="SPORT TV 4">
-    <title lang="pt">NHL: Tampa Bay x NY Islanders Final 1 (Direto)</title>
-  </programme>
-  <programme start="20210613223000 +0100" stop="20210614000000 +0100" channel="SPORT TV 4">
-    <title lang="pt">Golfe: Scandinavian Mixed Hosted - 4º Dia - European Tour</title>
-  </programme>
-  <programme start="20210613030000 +0100" stop="20210613060000 +0100" channel="SPORT TV 5">
-    <title lang="pt">UFC: UFC 263 - Adesanya x Vettori (Direto)</title>
-  </programme>
-  <programme start="20210613060000 +0100" stop="20210613075500 +0100" channel="SPORT TV 5">
-    <title lang="pt">Fora d\u0027Horas</title>
-  </programme>
-  <programme start="20210613075500 +0100" stop="20210613100000 +0100" channel="SPORT TV 5">
-    <title lang="pt">IndyCar Series: Chevrolet Detroit Grand Prix - Corrida 1</title>
-  </programme>
-  <programme start="20210613100000 +0100" stop="20210613105000 +0100" channel="SPORT TV 5">
-    <title lang="pt">Motociclismo: World SBK Emilia-Romagna - Superpole Race (Direto)</title>
-  </programme>
-  <programme start="20210613105000 +0100" stop="20210613113000 +0100" channel="SPORT TV 5">
-    <title lang="pt">Karting: Camp. Europa - Aunay Les Bois, França (Resumo)</title>
-  </programme>
-  <programme start="20210613113000 +0100" stop="20210613123000 +0100" channel="SPORT TV 5">
-    <title lang="pt">Motociclismo: World SSP Emilia-Romagna - Corrida 2 (Direto)</title>
-  </programme>
-  <programme start="20210613123000 +0100" stop="20210613130000 +0100" channel="SPORT TV 5">
-    <title lang="pt">Motociclismo: Magazine Motorcycle Sports</title>
-  </programme>
-  <programme start="20210613130000 +0100" stop="20210613141500 +0100" channel="SPORT TV 5">
-    <title lang="pt">Motociclismo: World SBK Emilia-Romagna - Corrida 2 (Direto)</title>
-  </programme>
-  <programme start="20210613141500 +0100" stop="20210613151000 +0100" channel="SPORT TV 5">
-    <title lang="pt">Motociclismo: World SSP300 Emilia-Romagna - Corrida 2 (Direto)</title>
-  </programme>
-  <programme start="20210613151000 +0100" stop="20210613160000 +0100" channel="SPORT TV 5">
-    <title lang="pt">Desportos Aquáticos: Watersports World</title>
-  </programme>
-  <programme start="20210613160000 +0100" stop="20210613183000 +0100" channel="SPORT TV 5">
-    <title lang="pt">Judo: Finais Dia 8 - Camp. Mundo (Direto)</title>
-  </programme>
-  <programme start="20210613183000 +0100" stop="20210613193000 +0100" channel="SPORT TV 5">
-    <title lang="pt">Motociclismo: Moto2 - Barcelona Corrida 2</title>
-  </programme>
-  <programme start="20210613193000 +0100" stop="20210613200000 +0100" channel="SPORT TV 5">
-    <title lang="pt">Basquetebol: Magazine FIBA World</title>
-  </programme>
-  <programme start="20210613200000 +0100" stop="20210613223000 +0100" channel="SPORT TV 5">
+  <programme start="20210618013000 +0100" stop="20210618040000 +0100" channel="SPORT TV 3">
     <title lang="pt">NBA: Milwaukee x Brooklyn (Direto)</title>
   </programme>
-  <programme start="20210613223000 +0100" stop="20210613233000 +0100" channel="SPORT TV 5">
-    <title lang="pt">UFC: UFC 263 - Adesanya x Vettori</title>
+  <programme start="20210618040000 +0100" stop="20210618100000 +0100" channel="SPORT TV 3">
+    <title lang="pt">Fora d\u0027Horas</title>
   </programme>
-  <programme start="20210613233000 +0100" stop="20210614002000 +0100" channel="SPORT TV 5">
-    <title lang="pt">Motociclismo: World SSP300 Emilia-Romagna - Corrida 2</title>
+  <programme start="20210618100000 +0100" stop="20210618115500 +0100" channel="SPORT TV 3">
+    <title lang="pt">Colômbia x Venezuela - Copa América</title>
   </programme>
-  <programme start="20210613030000 +0100" stop="20210613050000 +0100" channel="ELEVEN SPORTS 1">
-    <title lang="pt">La Liga: Atlético x Granada</title>
+  <programme start="20210618115500 +0100" stop="20210618140000 +0100" channel="SPORT TV 3">
+    <title lang="pt">Brasil x Peru - Copa América</title>
   </programme>
-  <programme start="20210613050000 +0100" stop="20210613063000 +0100" channel="ELEVEN SPORTS 1">
-    <title lang="pt">WTA 1000 Mutua Madrid Open - Meia-Final #1</title>
+  <programme start="20210618140000 +0100" stop="20210618155000 +0100" channel="SPORT TV 3">
+    <title lang="pt">Voleibol Fem.: Coreia x Brasil - Liga das Nações (Direto)</title>
   </programme>
-  <programme start="20210613063000 +0100" stop="20210613080000 +0100" channel="ELEVEN SPORTS 1">
-    <title lang="pt">WTA 1000 Mutua Madrid Open - Meia-Final #2</title>
+  <programme start="20210618155000 +0100" stop="20210618183000 +0100" channel="SPORT TV 3">
+    <title lang="pt">Hipismo: Royal Ascot - 4º Dia - Royal Ascot (Direto)</title>
   </programme>
-  <programme start="20210613080000 +0100" stop="20210613100000 +0100" channel="ELEVEN SPORTS 1">
-    <title lang="pt">WTA 1000 Mutua Madrid Open - Final</title>
+  <programme start="20210618183000 +0100" stop="20210618204000 +0100" channel="SPORT TV 3">
+    <title lang="pt">NBA: Milwaukee x Brooklyn</title>
   </programme>
-  <programme start="20210613100000 +0100" stop="20210613101500 +0100" channel="ELEVEN SPORTS 1">
-    <title lang="pt">UCL: FIlme Oficial</title>
+  <programme start="20210618204000 +0100" stop="20210618224000 +0100" channel="SPORT TV 3">
+    <title lang="pt">Ténis: ATP World Tour 500 - Halle - Melhor Jogo Do Dia</title>
   </programme>
-  <programme start="20210613101500 +0100" stop="20210613103000 +0100" channel="ELEVEN SPORTS 1">
-    <title lang="pt">Archive Mini-Series, Como Conquistamos</title>
+  <programme start="20210618224000 +0100" stop="20210619003000 +0100" channel="SPORT TV 3">
+    <title lang="pt">Ténis: ATP World Tour 500 - Londres - Melhor Jogo Do Dia</title>
   </programme>
-  <programme start="20210613103000 +0100" stop="20210613110000 +0100" channel="ELEVEN SPORTS 1">
-    <title lang="pt">Especial Bundesliga: Férias de Verão</title>
+  <programme start="20210618040000 +0100" stop="20210618100000 +0100" channel="SPORT TV 4">
+    <title lang="pt">Fora d’Horas</title>
   </programme>
-  <programme start="20210613110000 +0100" stop="20210613120000 +0100" channel="ELEVEN SPORTS 1">
-    <title lang="pt">Laliga Pós-Temporada</title>
+  <programme start="20210618100000 +0100" stop="20210618120000 +0100" channel="SPORT TV 4">
+    <title lang="pt">Ténis: ATP World Tour 500 1/4 Final - Halle (Direto)</title>
   </programme>
-  <programme start="20210613120000 +0100" stop="20210613140000 +0100" channel="ELEVEN SPORTS 1">
-    <title lang="pt">Bundesliga: Bayern x Hertha</title>
+  <programme start="20210618120000 +0100" stop="20210618140000 +0100" channel="SPORT TV 4">
+    <title lang="pt">Ténis: ATP World Tour 500 1/4 Final - Halle (Direto)</title>
   </programme>
-  <programme start="20210613140000 +0100" stop="20210613143000 +0100" channel="ELEVEN SPORTS 1">
-    <title lang="pt">Especial Bundesliga: Férias de Verão</title>
+  <programme start="20210618140000 +0100" stop="20210618160000 +0100" channel="SPORT TV 4">
+    <title lang="pt">Ténis: ATP World Tour 500 1/4 Final - Halle (Direto)</title>
   </programme>
-  <programme start="20210613143000 +0100" stop="20210613163000 +0100" channel="ELEVEN SPORTS 1">
-    <title lang="pt">La Liga: Barcelona x Betis</title>
+  <programme start="20210618160000 +0100" stop="20210618180000 +0100" channel="SPORT TV 4">
+    <title lang="pt">Ténis: ATP World Tour 500 1/4 Final - Halle (Direto)</title>
   </programme>
-  <programme start="20210613163000 +0100" stop="20210613164500 +0100" channel="ELEVEN SPORTS 1">
-    <title lang="pt">Laliga Entrevista, Héctor Herrera</title>
+  <programme start="20210618180000 +0100" stop="20210618181000 +0100" channel="SPORT TV 4">
+    <title lang="pt">Atletismo: Meeting de Lisboa</title>
   </programme>
-  <programme start="20210613164500 +0100" stop="20210613170000 +0100" channel="ELEVEN SPORTS 1">
-    <title lang="pt">Laliga Entrevista, Ángel Correa</title>
+  <programme start="20210618181000 +0100" stop="20210618190000 +0100" channel="SPORT TV 4">
+    <title lang="pt">Desportos Aquáticos: Watersports World</title>
   </programme>
-  <programme start="20210613170000 +0100" stop="20210613173000 +0100" channel="ELEVEN SPORTS 1">
-    <title lang="pt">Liga ACB Endesa - Resumos Da Jornada</title>
+  <programme start="20210618190000 +0100" stop="20210619000000 +0100" channel="SPORT TV 4">
+    <title lang="pt">Golfe: 2021 US Open - 2º Dia (Direto)</title>
   </programme>
-  <programme start="20210613173000 +0100" stop="20210613193000 +0100" channel="ELEVEN SPORTS 1">
-    <title lang="pt">Liga ACB: Final - 1ª Mão (Direto)</title>
+  <programme start="20210618020000 +0100" stop="20210618050000 +0100" channel="SPORT TV 5">
+    <title lang="pt">Automobilismo: Supercars Championship - Tailem Bend II (Resumo)</title>
   </programme>
-  <programme start="20210613193000 +0100" stop="20210613200000 +0100" channel="ELEVEN SPORTS 1">
-    <title lang="pt">Laliga Zap</title>
+  <programme start="20210618050000 +0100" stop="20210618120000 +0100" channel="SPORT TV 5">
+    <title lang="pt">Fora d\u0027Horas</title>
   </programme>
-  <programme start="20210613200000 +0100" stop="20210613220000 +0100" channel="ELEVEN SPORTS 1">
-    <title lang="pt">R. Vallecano x Girona - La Liga: 1ª Mão Final (Direto)</title>
+  <programme start="20210618120000 +0100" stop="20210618140000 +0100" channel="SPORT TV 5">
+    <title lang="pt">Ténis: ATP World Tour 500 - Londres - Quartos Final (Direto)</title>
   </programme>
-  <programme start="20210613220000 +0100" stop="20210613221500 +0100" channel="ELEVEN SPORTS 1">
-    <title lang="pt">Laliga Entrevista, Ángel Correa</title>
+  <programme start="20210618140000 +0100" stop="20210618160000 +0100" channel="SPORT TV 5">
+    <title lang="pt">Ténis: ATP World Tour 500 - Londres - Quartos Final (Direto)</title>
   </programme>
-  <programme start="20210613221500 +0100" stop="20210613223000 +0100" channel="ELEVEN SPORTS 1">
+  <programme start="20210618160000 +0100" stop="20210618180000 +0100" channel="SPORT TV 5">
+    <title lang="pt">Ténis: ATP World Tour 500 - Londres - Quartos Final (Direto)</title>
+  </programme>
+  <programme start="20210618180000 +0100" stop="20210618200000 +0100" channel="SPORT TV 5">
+    <title lang="pt">Ténis: ATP World Tour 500 - Londres - Quartos Final (Direto)</title>
+  </programme>
+  <programme start="20210618200000 +0100" stop="20210618210000 +0100" channel="SPORT TV 5">
+    <title lang="pt">IndyCar Series: Chevrolet Detroit Grand Prix - Corrida 1 (Resumo)</title>
+  </programme>
+  <programme start="20210618210000 +0100" stop="20210618220000 +0100" channel="SPORT TV 5">
+    <title lang="pt">IndyCar Series: Chevrolet Detroit Grand Prix - Corrida 2 (Resumo)</title>
+  </programme>
+  <programme start="20210618220000 +0100" stop="20210618230000 +0100" channel="SPORT TV 5">
+    <title lang="pt">MotoGP: GP Alemanha - Treinos Livres 2</title>
+  </programme>
+  <programme start="20210618230000 +0100" stop="20210619010000 +0100" channel="SPORT TV 5">
+    <title lang="pt">Voleibol Fem.: Polónia x Estados Unidos - Liga das Nações</title>
+  </programme>
+  <programme start="20210618021500 +0100" stop="20210618050000 +0100" channel="ELEVEN SPORTS 1">
+    <title lang="pt">NFL: Saints x Buccaneers</title>
+  </programme>
+  <programme start="20210618050000 +0100" stop="20210618060000 +0100" channel="ELEVEN SPORTS 1">
+    <title lang="pt">UCL - Jogos Clássicos 13</title>
+  </programme>
+  <programme start="20210618060000 +0100" stop="20210618070000 +0100" channel="ELEVEN SPORTS 1">
+    <title lang="pt">UEFA Champions League - Man In The Middle</title>
+  </programme>
+  <programme start="20210618070000 +0100" stop="20210618080000 +0100" channel="ELEVEN SPORTS 1">
+    <title lang="pt">Momentos Decisivos</title>
+  </programme>
+  <programme start="20210618080000 +0100" stop="20210618100000 +0100" channel="ELEVEN SPORTS 1">
+    <title lang="pt">Basquetebol: Tenerife x Barça</title>
+  </programme>
+  <programme start="20210618100000 +0100" stop="20210618120000 +0100" channel="ELEVEN SPORTS 1">
+    <title lang="pt">Bundesliga: Bayern x Frankfurt</title>
+  </programme>
+  <programme start="20210618120000 +0100" stop="20210618140000 +0100" channel="ELEVEN SPORTS 1">
+    <title lang="pt">Bundesliga: Dortmund x Bayern</title>
+  </programme>
+  <programme start="20210618140000 +0100" stop="20210618150000 +0100" channel="ELEVEN SPORTS 1">
+    <title lang="pt">UEFA Champions League - Man In The Middle</title>
+  </programme>
+  <programme start="20210618150000 +0100" stop="20210618154500 +0100" channel="ELEVEN SPORTS 1">
+    <title lang="pt">Bundesliga, 24/7</title>
+  </programme>
+  <programme start="20210618154500 +0100" stop="20210618160000 +0100" channel="ELEVEN SPORTS 1">
     <title lang="pt">Laliga Entrevista, Koke</title>
   </programme>
-  <programme start="20210613223000 +0100" stop="20210613230000 +0100" channel="ELEVEN SPORTS 1">
-    <title lang="pt">Tiki-Tática</title>
+  <programme start="20210618160000 +0100" stop="20210618181500 +0100" channel="ELEVEN SPORTS 1">
+    <title lang="pt">Liga Dos Campeões: Chelsea x Barcelona</title>
   </programme>
-  <programme start="20210613230000 +0100" stop="20210613234500 +0100" channel="ELEVEN SPORTS 1">
-    <title lang="pt">Bundesliga, 24/7 FC</title>
+  <programme start="20210618181500 +0100" stop="20210618183000 +0100" channel="ELEVEN SPORTS 1">
+    <title lang="pt">Bundesliga Special - Entrevista Do Mês, Robert Lewandowski</title>
   </programme>
-  <programme start="20210613234500 +0100" stop="20210614000000 +0100" channel="ELEVEN SPORTS 1">
-    <title lang="pt">UCL: FIlme Oficial</title>
+  <programme start="20210618183000 +0100" stop="20210618190000 +0100" channel="ELEVEN SPORTS 1">
+    <title lang="pt">Especial Bundesliga, Férias De Verão</title>
   </programme>
-  <programme start="20210613021500 +0100" stop="20210613041500 +0100" channel="ELEVEN SPORTS 2">
-    <title lang="pt">M´Gladbach x Real Madrid - Champions League</title>
-  </programme>
-  <programme start="20210613041500 +0100" stop="20210613050000 +0100" channel="ELEVEN SPORTS 2">
-    <title lang="pt">Bundesliga, 24/7 FC</title>
-  </programme>
-  <programme start="20210613050000 +0100" stop="20210613070000 +0100" channel="ELEVEN SPORTS 2">
-    <title lang="pt">Lyon x Nice - Ligue 1</title>
-  </programme>
-  <programme start="20210613070000 +0100" stop="20210613090000 +0100" channel="ELEVEN SPORTS 2">
-    <title lang="pt">Frankfurt x Freiburg - Bundesliga</title>
-  </programme>
-  <programme start="20210613090000 +0100" stop="20210613100000 +0100" channel="ELEVEN SPORTS 2">
-    <title lang="pt">Ligue 1 A Temporada</title>
-  </programme>
-  <programme start="20210613100000 +0100" stop="20210613103000 +0100" channel="ELEVEN SPORTS 2">
-    <title lang="pt">WTA Madrid Highlights</title>
-  </programme>
-  <programme start="20210613103000 +0100" stop="20210613110000 +0100" channel="ELEVEN SPORTS 2">
-    <title lang="pt">WTA Roma Highlights EP04</title>
-  </programme>
-  <programme start="20210613110000 +0100" stop="20210613133000 +0100" channel="ELEVEN SPORTS 2">
-    <title lang="pt">Tenis: ATP 250 Mercedes Cup Singles Final (Direto)</title>
-  </programme>
-  <programme start="20210613133000 +0100" stop="20210613140000 +0100" channel="ELEVEN SPORTS 2">
-    <title lang="pt">WTA Roma Highlights EP04</title>
-  </programme>
-  <programme start="20210613140000 +0100" stop="20210613150000 +0100" channel="ELEVEN SPORTS 2">
-    <title lang="pt">Ligue 1 A Temporada</title>
-  </programme>
-  <programme start="20210613150000 +0100" stop="20210613170000 +0100" channel="ELEVEN SPORTS 2">
-    <title lang="pt">PSG x Marseille - Ligue 1</title>
-  </programme>
-  <programme start="20210613170000 +0100" stop="20210613180000 +0100" channel="ELEVEN SPORTS 2">
-    <title lang="pt">Laliga Os Melhores Golos</title>
-  </programme>
-  <programme start="20210613180000 +0100" stop="20210613200000 +0100" channel="ELEVEN SPORTS 2">
-    <title lang="pt">Dortmund x M´Gladbach - Bundesliga</title>
-  </programme>
-  <programme start="20210613200000 +0100" stop="20210613210000 +0100" channel="ELEVEN SPORTS 2">
+  <programme start="20210618190000 +0100" stop="20210618200000 +0100" channel="ELEVEN SPORTS 1">
     <title lang="pt">Bundesliga A Temporada</title>
   </programme>
-  <programme start="20210613210000 +0100" stop="20210613213000 +0100" channel="ELEVEN SPORTS 2">
-    <title lang="pt">UCL Finals Archive Series, Programme 13</title>
+  <programme start="20210618200000 +0100" stop="20210618220000 +0100" channel="ELEVEN SPORTS 1">
+    <title lang="pt">Bundesliga: Bayern x Frankfurt</title>
   </programme>
-  <programme start="20210613213000 +0100" stop="20210613223000 +0100" channel="ELEVEN SPORTS 2">
-    <title lang="pt">Take Us Home Leeds United</title>
+  <programme start="20210618220000 +0100" stop="20210619000000 +0100" channel="ELEVEN SPORTS 1">
+    <title lang="pt">Bundesliga: Dortmund x Bayern</title>
   </programme>
-  <programme start="20210613223000 +0100" stop="20210613230000 +0100" channel="ELEVEN SPORTS 2">
-    <title lang="pt">Especial Bundesliga: Férias de Verão</title>
+  <programme start="20210618030000 +0100" stop="20210618050000 +0100" channel="ELEVEN SPORTS 2">
+    <title lang="pt">Basquetebol: Valencia Basket x Real Madrid - Liga Endesa</title>
   </programme>
-  <programme start="20210613230000 +0100" stop="20210613233000 +0100" channel="ELEVEN SPORTS 2">
-    <title lang="pt">PFL - Inside The Season</title>
+  <programme start="20210618050000 +0100" stop="20210618070000 +0100" channel="ELEVEN SPORTS 2">
+    <title lang="pt">Bayern x Schalke - Bundesliga</title>
   </programme>
-  <programme start="20210613233000 +0100" stop="20210614000000 +0100" channel="ELEVEN SPORTS 2">
-    <title lang="pt">PFL - Inside The Season</title>
+  <programme start="20210618070000 +0100" stop="20210618090000 +0100" channel="ELEVEN SPORTS 2">
+    <title lang="pt">Dortmund x M´Gladbach - Bundesliga</title>
   </programme>
-  <programme start="20210613023000 +0100" stop="20210613050000 +0100" channel="ELEVEN SPORTS 3">
+  <programme start="20210618090000 +0100" stop="20210618094500 +0100" channel="ELEVEN SPORTS 2">
+    <title lang="pt">Bundesliga, 24/7 FC</title>
+  </programme>
+  <programme start="20210618094500 +0100" stop="20210618100000 +0100" channel="ELEVEN SPORTS 2">
+    <title lang="pt">Laliga Entrevista, Koke</title>
+  </programme>
+  <programme start="20210618100000 +0100" stop="20210618124500 +0100" channel="ELEVEN SPORTS 2">
+    <title lang="pt">Futebol Americano: Packers x Buccaneers</title>
+  </programme>
+  <programme start="20210618124500 +0100" stop="20210618134500 +0100" channel="ELEVEN SPORTS 2">
+    <title lang="pt">Bundesliga A Temporada</title>
+  </programme>
+  <programme start="20210618134500 +0100" stop="20210618140000 +0100" channel="ELEVEN SPORTS 2">
+    <title lang="pt">Laliga Entrevista, Ángel Correa</title>
+  </programme>
+  <programme start="20210618140000 +0100" stop="20210618160000 +0100" channel="ELEVEN SPORTS 2">
+    <title lang="pt">Rangers x Celtic - Scottish Premiership</title>
+  </programme>
+  <programme start="20210618160000 +0100" stop="20210618180000 +0100" channel="ELEVEN SPORTS 2">
+    <title lang="pt">Basquetebol: Final - 2ª Mão - Liga Endesa</title>
+  </programme>
+  <programme start="20210618180000 +0100" stop="20210618200000 +0100" channel="ELEVEN SPORTS 2">
+    <title lang="pt">Basquetebol: Final - 3ª Mão - Liga Endesa</title>
+  </programme>
+  <programme start="20210618200000 +0100" stop="20210618204500 +0100" channel="ELEVEN SPORTS 2">
+    <title lang="pt">Take Us Home, Leeds United</title>
+  </programme>
+  <programme start="20210618204500 +0100" stop="20210618213000 +0100" channel="ELEVEN SPORTS 2">
+    <title lang="pt">Take Us Home, Leeds United</title>
+  </programme>
+  <programme start="20210618213000 +0100" stop="20210618221500 +0100" channel="ELEVEN SPORTS 2">
+    <title lang="pt">Take Us Home, Leeds United</title>
+  </programme>
+  <programme start="20210618221500 +0100" stop="20210618230000 +0100" channel="ELEVEN SPORTS 2">
+    <title lang="pt">Take Us Home, Leeds United</title>
+  </programme>
+  <programme start="20210618230000 +0100" stop="20210618234500 +0100" channel="ELEVEN SPORTS 2">
+    <title lang="pt">Take Us Home, Leeds United</title>
+  </programme>
+  <programme start="20210618234500 +0100" stop="20210619003000 +0100" channel="ELEVEN SPORTS 2">
+    <title lang="pt">Take Us Home, Leeds United</title>
+  </programme>
+  <programme start="20210618023000 +0100" stop="20210618050000 +0100" channel="ELEVEN SPORTS 3">
     <title lang="pt">Sem Emissão</title>
   </programme>
-  <programme start="20210613050000 +0100" stop="20210613100000 +0100" channel="ELEVEN SPORTS 3">
+  <programme start="20210618050000 +0100" stop="20210618080000 +0100" channel="ELEVEN SPORTS 3">
     <title lang="pt">Sem Emissão</title>
   </programme>
-  <programme start="20210613100000 +0100" stop="20210613114500 +0100" channel="ELEVEN SPORTS 3">
-    <title lang="pt">Automobilismo: Resumo F1 2021, GP Azerbaijão</title>
+  <programme start="20210618080000 +0100" stop="20210618090500 +0100" channel="ELEVEN SPORTS 3">
+    <title lang="pt">F1 Eleven</title>
   </programme>
-  <programme start="20210613114500 +0100" stop="20210613130000 +0100" channel="ELEVEN SPORTS 3">
-    <title lang="pt">Automobilismo: E-Prix Monaco - Corrida - Formula E</title>
+  <programme start="20210618090500 +0100" stop="20210618103000 +0100" channel="ELEVEN SPORTS 3">
+    <title lang="pt">Automobilismo: GP França - Treino Livre - Formula 3 (Direto)</title>
   </programme>
-  <programme start="20210613130000 +0100" stop="20210613133000 +0100" channel="ELEVEN SPORTS 3">
-    <title lang="pt">Automobilismo: Fora de Estrada</title>
+  <programme start="20210618103000 +0100" stop="20210618114500 +0100" channel="ELEVEN SPORTS 3">
+    <title lang="pt">Automobilismo: GP França - Treinos Livres 1 (Direto)</title>
   </programme>
-  <programme start="20210613133000 +0100" stop="20210613143000 +0100" channel="ELEVEN SPORTS 3">
-    <title lang="pt">Automobilismo: TCR - Paul Ricard Round 03 - TCR</title>
+  <programme start="20210618114500 +0100" stop="20210618121500 +0100" channel="ELEVEN SPORTS 3">
+    <title lang="pt">Fora de Estrada T2 EP12</title>
   </programme>
-  <programme start="20210613143000 +0100" stop="20210613153000 +0100" channel="ELEVEN SPORTS 3">
-    <title lang="pt">Automobilismo: TCR - Paul Ricard Round 04 - TCR</title>
+  <programme start="20210618121500 +0100" stop="20210618123000 +0100" channel="ELEVEN SPORTS 3">
+    <title lang="pt">Os melhores Team Radios - Azerbaijão 2021</title>
   </programme>
-  <programme start="20210613153000 +0100" stop="20210613163000 +0100" channel="ELEVEN SPORTS 3">
-    <title lang="pt">Automobilismo: Asian Le Mans - Revista de final de ano</title>
+  <programme start="20210618123000 +0100" stop="20210618125000 +0100" channel="ELEVEN SPORTS 3">
+    <title lang="pt">Os melhores On Boards, GP Azerbaijão 2021</title>
   </programme>
-  <programme start="20210613163000 +0100" stop="20210613170000 +0100" channel="ELEVEN SPORTS 3">
-    <title lang="pt">Automobilismo: Fora de Estrada</title>
+  <programme start="20210618125000 +0100" stop="20210618133000 +0100" channel="ELEVEN SPORTS 3">
+    <title lang="pt">Automobilismo: GP França - Qualificação - Formula 3 (Direto)</title>
   </programme>
-  <programme start="20210613170000 +0100" stop="20210613173000 +0100" channel="ELEVEN SPORTS 3">
-    <title lang="pt">Automobilismo: Baquet Ep. 1</title>
+  <programme start="20210618133000 +0100" stop="20210618140000 +0100" channel="ELEVEN SPORTS 3">
+    <title lang="pt">Os melhores Team Radios - Azerbaijão 2021</title>
   </programme>
-  <programme start="20210613173000 +0100" stop="20210613180000 +0100" channel="ELEVEN SPORTS 3">
-    <title lang="pt">Automobilismo: The Pace Lap</title>
+  <programme start="20210618140000 +0100" stop="20210618151500 +0100" channel="ELEVEN SPORTS 3">
+    <title lang="pt">Automobilismo: GP França - Treinos Livres 2 (Direto)</title>
   </programme>
-  <programme start="20210613180000 +0100" stop="20210613203000 +0100" channel="ELEVEN SPORTS 3">
-    <title lang="pt">Automobilismo: Resumo Nascar Cup Series 2021</title>
+  <programme start="20210618151500 +0100" stop="20210618160000 +0100" channel="ELEVEN SPORTS 3">
+    <title lang="pt">Automobilismo: GP França - Qualificação - Formula 3</title>
   </programme>
-  <programme start="20210613203000 +0100" stop="20210613210000 +0100" channel="ELEVEN SPORTS 3">
-    <title lang="pt">Automobilismo: Formula E Top 10 Momentos</title>
+  <programme start="20210618160000 +0100" stop="20210618163000 +0100" channel="ELEVEN SPORTS 3">
+    <title lang="pt">Automobilismo: GP Confidential</title>
   </programme>
-  <programme start="20210613210000 +0100" stop="20210613213000 +0100" channel="ELEVEN SPORTS 3">
-    <title lang="pt">Automobilismo: Formula E Top 10 Momentos</title>
+  <programme start="20210618163000 +0100" stop="20210618174500 +0100" channel="ELEVEN SPORTS 3">
+    <title lang="pt">Automobilismo: GP França - Treinos Livres 2</title>
   </programme>
-  <programme start="20210613213000 +0100" stop="20210613220000 +0100" channel="ELEVEN SPORTS 3">
-    <title lang="pt">Automobilismo: Formula E Top 10 Momentos</title>
+  <programme start="20210618174500 +0100" stop="20210618183000 +0100" channel="ELEVEN SPORTS 3">
+    <title lang="pt">Automobilismo: GP França - Qualificação - Formula 3</title>
   </programme>
-  <programme start="20210613220000 +0100" stop="20210613223000 +0100" channel="ELEVEN SPORTS 3">
-    <title lang="pt">Automobilismo: Formula E Top 10 Momentos</title>
+  <programme start="20210618183000 +0100" stop="20210618190000 +0100" channel="ELEVEN SPORTS 3">
+    <title lang="pt">Automobilismo: GP Confidential</title>
   </programme>
-  <programme start="20210613223000 +0100" stop="20210613230000 +0100" channel="ELEVEN SPORTS 3">
-    <title lang="pt">Automobilismo: The Pace Lap</title>
+  <programme start="20210618190000 +0100" stop="20210618193000 +0100" channel="ELEVEN SPORTS 3">
+    <title lang="pt">Baquet</title>
   </programme>
-  <programme start="20210613230000 +0100" stop="20210614030000 +0100" channel="ELEVEN SPORTS 3">
-    <title lang="pt">Automobilismo: Nascar Cup Series - Texas Motor Speedway (Direto)</title>
+  <programme start="20210618193000 +0100" stop="20210618201500 +0100" channel="ELEVEN SPORTS 3">
+    <title lang="pt">Automobilismo: Formula E Magazine #5</title>
   </programme>
-  <programme start="20210613020000 +0100" stop="20210613050000 +0100" channel="ELEVEN SPORTS 4">
+  <programme start="20210618201500 +0100" stop="20210618210000 +0100" channel="ELEVEN SPORTS 3">
+    <title lang="pt">Automobilismo: GP França - Qualificação - Formula 3</title>
+  </programme>
+  <programme start="20210618210000 +0100" stop="20210618221500 +0100" channel="ELEVEN SPORTS 3">
+    <title lang="pt">Automobilismo: GP França - Treinos Livres 2</title>
+  </programme>
+  <programme start="20210618221500 +0100" stop="20210618230000 +0100" channel="ELEVEN SPORTS 3">
+    <title lang="pt">Automobilismo: Formula E Magazine #5</title>
+  </programme>
+  <programme start="20210618230000 +0100" stop="20210619010000 +0100" channel="ELEVEN SPORTS 3">
+    <title lang="pt">Automobilismo: Resumo Texas Motor Speedway</title>
+  </programme>
+  <programme start="20210618010000 +0100" stop="20210618050000 +0100" channel="ELEVEN SPORTS 4">
     <title lang="pt">Sem Emissão</title>
   </programme>
-  <programme start="20210613050000 +0100" stop="20210613090000 +0100" channel="ELEVEN SPORTS 4">
+  <programme start="20210618050000 +0100" stop="20210618090000 +0100" channel="ELEVEN SPORTS 4">
     <title lang="pt">Sem Emissão</title>
   </programme>
-  <programme start="20210613090000 +0100" stop="20210613130000 +0100" channel="ELEVEN SPORTS 4">
+  <programme start="20210618090000 +0100" stop="20210618130000 +0100" channel="ELEVEN SPORTS 4">
     <title lang="pt">Sem Emissão</title>
   </programme>
-  <programme start="20210613130000 +0100" stop="20210613170000 +0100" channel="ELEVEN SPORTS 4">
+  <programme start="20210618130000 +0100" stop="20210618170000 +0100" channel="ELEVEN SPORTS 4">
     <title lang="pt">Sem Emissão</title>
   </programme>
-  <programme start="20210613170000 +0100" stop="20210613210000 +0100" channel="ELEVEN SPORTS 4">
+  <programme start="20210618170000 +0100" stop="20210618210000 +0100" channel="ELEVEN SPORTS 4">
     <title lang="pt">Sem Emissão</title>
   </programme>
-  <programme start="20210613210000 +0100" stop="20210614010000 +0100" channel="ELEVEN SPORTS 4">
+  <programme start="20210618210000 +0100" stop="20210619010000 +0100" channel="ELEVEN SPORTS 4">
     <title lang="pt">Sem Emissão</title>
   </programme>
-  <programme start="20210613020000 +0100" stop="20210613040000 +0100" channel="ELEVEN SPORTS 5">
+  <programme start="20210618020000 +0100" stop="20210618040000 +0100" channel="ELEVEN SPORTS 5">
     <title lang="pt">Eleven 5</title>
   </programme>
-  <programme start="20210613040000 +0100" stop="20210613060000 +0100" channel="ELEVEN SPORTS 5">
+  <programme start="20210618040000 +0100" stop="20210618060000 +0100" channel="ELEVEN SPORTS 5">
     <title lang="pt">Eleven 5</title>
   </programme>
-  <programme start="20210613060000 +0100" stop="20210613080000 +0100" channel="ELEVEN SPORTS 5">
+  <programme start="20210618060000 +0100" stop="20210618080000 +0100" channel="ELEVEN SPORTS 5">
     <title lang="pt">Eleven 5</title>
   </programme>
-  <programme start="20210613080000 +0100" stop="20210613100000 +0100" channel="ELEVEN SPORTS 5">
+  <programme start="20210618080000 +0100" stop="20210618100000 +0100" channel="ELEVEN SPORTS 5">
     <title lang="pt">Eleven 5</title>
   </programme>
-  <programme start="20210613100000 +0100" stop="20210613120000 +0100" channel="ELEVEN SPORTS 5">
+  <programme start="20210618100000 +0100" stop="20210618120000 +0100" channel="ELEVEN SPORTS 5">
     <title lang="pt">Eleven 5</title>
   </programme>
-  <programme start="20210613120000 +0100" stop="20210613140000 +0100" channel="ELEVEN SPORTS 5">
+  <programme start="20210618120000 +0100" stop="20210618140000 +0100" channel="ELEVEN SPORTS 5">
     <title lang="pt">Eleven 5</title>
   </programme>
-  <programme start="20210613140000 +0100" stop="20210613160000 +0100" channel="ELEVEN SPORTS 5">
+  <programme start="20210618140000 +0100" stop="20210618160000 +0100" channel="ELEVEN SPORTS 5">
     <title lang="pt">Eleven 5</title>
   </programme>
-  <programme start="20210613160000 +0100" stop="20210613180000 +0100" channel="ELEVEN SPORTS 5">
+  <programme start="20210618160000 +0100" stop="20210618180000 +0100" channel="ELEVEN SPORTS 5">
     <title lang="pt">Eleven 5</title>
   </programme>
-  <programme start="20210613180000 +0100" stop="20210613200000 +0100" channel="ELEVEN SPORTS 5">
+  <programme start="20210618180000 +0100" stop="20210618200000 +0100" channel="ELEVEN SPORTS 5">
     <title lang="pt">Eleven 5</title>
   </programme>
-  <programme start="20210613200000 +0100" stop="20210613220000 +0100" channel="ELEVEN SPORTS 5">
+  <programme start="20210618200000 +0100" stop="20210618220000 +0100" channel="ELEVEN SPORTS 5">
     <title lang="pt">Eleven 5</title>
   </programme>
-  <programme start="20210613220000 +0100" stop="20210614000000 +0100" channel="ELEVEN SPORTS 5">
+  <programme start="20210618220000 +0100" stop="20210619000000 +0100" channel="ELEVEN SPORTS 5">
     <title lang="pt">Eleven 5</title>
   </programme>
-  <programme start="20210613020000 +0100" stop="20210613040000 +0100" channel="ELEVEN SPORTS 6">
+  <programme start="20210618020000 +0100" stop="20210618040000 +0100" channel="ELEVEN SPORTS 6">
     <title lang="pt">ELEVEN 6</title>
   </programme>
-  <programme start="20210613040000 +0100" stop="20210613060000 +0100" channel="ELEVEN SPORTS 6">
+  <programme start="20210618040000 +0100" stop="20210618060000 +0100" channel="ELEVEN SPORTS 6">
     <title lang="pt">ELEVEN 6</title>
   </programme>
-  <programme start="20210613060000 +0100" stop="20210613080000 +0100" channel="ELEVEN SPORTS 6">
+  <programme start="20210618060000 +0100" stop="20210618080000 +0100" channel="ELEVEN SPORTS 6">
     <title lang="pt">ELEVEN 6</title>
   </programme>
-  <programme start="20210613080000 +0100" stop="20210613100000 +0100" channel="ELEVEN SPORTS 6">
+  <programme start="20210618080000 +0100" stop="20210618100000 +0100" channel="ELEVEN SPORTS 6">
     <title lang="pt">ELEVEN 6</title>
   </programme>
-  <programme start="20210613100000 +0100" stop="20210613120000 +0100" channel="ELEVEN SPORTS 6">
+  <programme start="20210618100000 +0100" stop="20210618120000 +0100" channel="ELEVEN SPORTS 6">
     <title lang="pt">ELEVEN 6</title>
   </programme>
-  <programme start="20210613120000 +0100" stop="20210613140000 +0100" channel="ELEVEN SPORTS 6">
+  <programme start="20210618120000 +0100" stop="20210618140000 +0100" channel="ELEVEN SPORTS 6">
     <title lang="pt">ELEVEN 6</title>
   </programme>
-  <programme start="20210613140000 +0100" stop="20210613160000 +0100" channel="ELEVEN SPORTS 6">
+  <programme start="20210618140000 +0100" stop="20210618160000 +0100" channel="ELEVEN SPORTS 6">
     <title lang="pt">ELEVEN 6</title>
   </programme>
-  <programme start="20210613160000 +0100" stop="20210613180000 +0100" channel="ELEVEN SPORTS 6">
+  <programme start="20210618160000 +0100" stop="20210618180000 +0100" channel="ELEVEN SPORTS 6">
     <title lang="pt">ELEVEN 6</title>
   </programme>
-  <programme start="20210613180000 +0100" stop="20210613200000 +0100" channel="ELEVEN SPORTS 6">
+  <programme start="20210618180000 +0100" stop="20210618200000 +0100" channel="ELEVEN SPORTS 6">
     <title lang="pt">ELEVEN 6</title>
   </programme>
-  <programme start="20210613200000 +0100" stop="20210613220000 +0100" channel="ELEVEN SPORTS 6">
+  <programme start="20210618200000 +0100" stop="20210618220000 +0100" channel="ELEVEN SPORTS 6">
     <title lang="pt">ELEVEN 6</title>
   </programme>
-  <programme start="20210613220000 +0100" stop="20210614000000 +0100" channel="ELEVEN SPORTS 6">
+  <programme start="20210618220000 +0100" stop="20210619000000 +0100" channel="ELEVEN SPORTS 6">
     <title lang="pt">ELEVEN 6</title>
   </programme>
-  <programme start="20210613010000 +0100" stop="20210613013000 +0100" channel="Sky Sports F1 HD">
-    <title lang="en">The Home Of Formula One</title>
-  </programme>
-  <programme start="20210613013000 +0100" stop="20210613021500 +0100" channel="Sky Sports F1 HD">
-    <title lang="en">The Home Of Formula One</title>
-  </programme>
-  <programme start="20210613021500 +0100" stop="20210613024500 +0100" channel="Sky Sports F1 HD">
-    <title lang="en">The Home Of Formula One</title>
-  </programme>
-  <programme start="20210613024500 +0100" stop="20210613033000 +0100" channel="Sky Sports F1 HD">
-    <title lang="en">The Home Of Formula One</title>
-  </programme>
-  <programme start="20210613033000 +0100" stop="20210613040000 +0100" channel="Sky Sports F1 HD">
-    <title lang="en">The Home Of Formula One</title>
-  </programme>
-  <programme start="20210613040000 +0100" stop="20210613044500 +0100" channel="Sky Sports F1 HD">
-    <title lang="en">The Home Of Formula One</title>
-  </programme>
-  <programme start="20210613044500 +0100" stop="20210613051500 +0100" channel="Sky Sports F1 HD">
-    <title lang="en">The Home Of Formula One</title>
-  </programme>
-  <programme start="20210613051500 +0100" stop="20210613060000 +0100" channel="Sky Sports F1 HD">
-    <title lang="en">The Home Of Formula One</title>
-  </programme>
-  <programme start="20210613060000 +0100" stop="20210613064500 +0100" channel="Sky Sports F1 HD">
-    <title lang="en">The Home Of Formula One</title>
-  </programme>
-  <programme start="20210613064500 +0100" stop="20210613071500 +0100" channel="Sky Sports F1 HD">
-    <title lang="en">The Home Of Formula One</title>
-  </programme>
-  <programme start="20210613071500 +0100" stop="20210613080000 +0100" channel="Sky Sports F1 HD">
-    <title lang="en">The Home Of Formula One</title>
-  </programme>
-  <programme start="20210613080000 +0100" stop="20210613083000 +0100" channel="Sky Sports F1 HD">
-    <title lang="en">The Home Of Formula One</title>
-  </programme>
-  <programme start="20210613083000 +0100" stop="20210613100500 +0100" channel="Sky Sports F1 HD">
-    <title lang="en">Grand Prix Sunday: Turkey 2020</title>
-  </programme>
-  <programme start="20210613100500 +0100" stop="20210613125500 +0100" channel="Sky Sports F1 HD">
-    <title lang="en">Turkish F1 Grand Prix 2020</title>
-  </programme>
-  <programme start="20210613125500 +0100" stop="20210613133000 +0100" channel="Sky Sports F1 HD">
-    <title lang="en">The Chequered Flag: Turkey 2020</title>
-  </programme>
-  <programme start="20210613133000 +0100" stop="20210613140000 +0100" channel="Sky Sports F1 HD">
-    <title lang="en">F1 Legends: Murray Walker</title>
-  </programme>
-  <programme start="20210613140000 +0100" stop="20210613150000 +0100" channel="Sky Sports F1 HD">
-    <title lang="en">Live Indycar: Qualifying</title>
-  </programme>
-  <programme start="20210613150000 +0100" stop="20210613153000 +0100" channel="Sky Sports F1 HD">
-    <title lang="en">The Mercedes W12 Explained</title>
-  </programme>
-  <programme start="20210613153000 +0100" stop="20210613160000 +0100" channel="Sky Sports F1 HD">
-    <title lang="en">The Switch</title>
-  </programme>
-  <programme start="20210613160000 +0100" stop="20210613161000 +0100" channel="Sky Sports F1 HD">
-    <title lang="en">Jenson Races Silverstone 500</title>
-  </programme>
-  <programme start="20210613161000 +0100" stop="20210613162000 +0100" channel="Sky Sports F1 HD">
-    <title lang="en">Damon On Moss</title>
-  </programme>
-  <programme start="20210613162000 +0100" stop="20210613163000 +0100" channel="Sky Sports F1 HD">
+  <programme start="20210618003500 +0100" stop="20210618004500 +0100" channel="Sky Sports F1 HD">
     <title lang="en">Ricciardo's First Day At McLaren</title>
   </programme>
-  <programme start="20210613163000 +0100" stop="20210613170000 +0100" channel="Sky Sports F1 HD">
-    <title lang="en">Trevor Carlin: F1 Talent Spotter</title>
+  <programme start="20210618004500 +0100" stop="20210618005000 +0100" channel="Sky Sports F1 HD">
+    <title lang="en">Albon and Crofty Challenge</title>
   </programme>
-  <programme start="20210613170000 +0100" stop="20210613200000 +0100" channel="Sky Sports F1 HD">
-    <title lang="en">Live Indycar: Detroit Grand Prix</title>
+  <programme start="20210618005000 +0100" stop="20210618010000 +0100" channel="Sky Sports F1 HD">
+    <title lang="en">Damon On Moss</title>
   </programme>
-  <programme start="20210613200000 +0100" stop="20210613222000 +0100" channel="Sky Sports F1 HD">
-    <title lang="en">Turkish F1 Grand Prix 2020</title>
+  <programme start="20210618010000 +0100" stop="20210618014500 +0100" channel="Sky Sports F1 HD">
+    <title lang="en">The Home Of Formula One</title>
   </programme>
-  <programme start="20210613222000 +0100" stop="20210613223000 +0100" channel="Sky Sports F1 HD">
+  <programme start="20210618014500 +0100" stop="20210618021500 +0100" channel="Sky Sports F1 HD">
+    <title lang="en">The Home Of Formula One</title>
+  </programme>
+  <programme start="20210618021500 +0100" stop="20210618030000 +0100" channel="Sky Sports F1 HD">
+    <title lang="en">The Home Of Formula One</title>
+  </programme>
+  <programme start="20210618030000 +0100" stop="20210618033000 +0100" channel="Sky Sports F1 HD">
+    <title lang="en">The Home Of Formula One</title>
+  </programme>
+  <programme start="20210618033000 +0100" stop="20210618041500 +0100" channel="Sky Sports F1 HD">
+    <title lang="en">The Home Of Formula One</title>
+  </programme>
+  <programme start="20210618041500 +0100" stop="20210618044500 +0100" channel="Sky Sports F1 HD">
+    <title lang="en">The Home Of Formula One</title>
+  </programme>
+  <programme start="20210618044500 +0100" stop="20210618053000 +0100" channel="Sky Sports F1 HD">
+    <title lang="en">The Home Of Formula One</title>
+  </programme>
+  <programme start="20210618053000 +0100" stop="20210618060000 +0100" channel="Sky Sports F1 HD">
+    <title lang="en">The Home Of Formula One</title>
+  </programme>
+  <programme start="20210618060000 +0100" stop="20210618070000 +0100" channel="Sky Sports F1 HD">
+    <title lang="en">The F1 Show: France</title>
+  </programme>
+  <programme start="20210618070000 +0100" stop="20210618080000 +0100" channel="Sky Sports F1 HD">
+    <title lang="en">Azerbaijan F1 GP Highlights</title>
+  </programme>
+  <programme start="20210618080000 +0100" stop="20210618090000 +0100" channel="Sky Sports F1 HD">
+    <title lang="en">The F1 Show: France</title>
+  </programme>
+  <programme start="20210618090000 +0100" stop="20210618095500 +0100" channel="Sky Sports F1 HD">
+    <title lang="en">Live French F3: Practice</title>
+  </programme>
+  <programme start="20210618095500 +0100" stop="20210618100000 +0100" channel="Sky Sports F1 HD">
+    <title lang="en">Ted's Story Of Ferrari</title>
+  </programme>
+  <programme start="20210618100000 +0100" stop="20210618114500 +0100" channel="Sky Sports F1 HD">
+    <title lang="en">Live French F1 GP: Practice 1</title>
+  </programme>
+  <programme start="20210618114500 +0100" stop="20210618121500 +0100" channel="Sky Sports F1 HD">
+    <title lang="en">F1 Legends: Murray Walker</title>
+  </programme>
+  <programme start="20210618121500 +0100" stop="20210618124500 +0100" channel="Sky Sports F1 HD">
+    <title lang="en">The Mercedes W12 Explained</title>
+  </programme>
+  <programme start="20210618124500 +0100" stop="20210618132500 +0100" channel="Sky Sports F1 HD">
+    <title lang="en">Live French F3: Qualifying</title>
+  </programme>
+  <programme start="20210618132500 +0100" stop="20210618133000 +0100" channel="Sky Sports F1 HD">
+    <title lang="en">The Psychology of Lewis Hamilton</title>
+  </programme>
+  <programme start="20210618133000 +0100" stop="20210618134000 +0100" channel="Sky Sports F1 HD">
+    <title lang="en">GTR Race Feature</title>
+  </programme>
+  <programme start="20210618134000 +0100" stop="20210618134500 +0100" channel="Sky Sports F1 HD">
+    <title lang="en">Ted's Story Of Ferrari</title>
+  </programme>
+  <programme start="20210618134500 +0100" stop="20210618153000 +0100" channel="Sky Sports F1 HD">
+    <title lang="en">Live French F1 GP: Practice 2</title>
+  </programme>
+  <programme start="20210618153000 +0100" stop="20210618154000 +0100" channel="Sky Sports F1 HD">
+    <title lang="en">Lando and Jenson</title>
+  </programme>
+  <programme start="20210618154000 +0100" stop="20210618155000 +0100" channel="Sky Sports F1 HD">
+    <title lang="en">Brundle on Schumacher</title>
+  </programme>
+  <programme start="20210618155000 +0100" stop="20210618160000 +0100" channel="Sky Sports F1 HD">
     <title lang="en">Jenson Races Silverstone 500</title>
   </programme>
-  <programme start="20210613223000 +0100" stop="20210613230000 +0100" channel="Sky Sports F1 HD">
-    <title lang="en">The Switch</title>
+  <programme start="20210618160000 +0100" stop="20210618171500 +0100" channel="Sky Sports F1 HD">
+    <title lang="en">French F1 GP: Practice 1 Hlts</title>
   </programme>
-  <programme start="20210613030000 +0100" stop="20210613040000 +0100" channel="EUROSPORT 1 HD">
-    <title lang="pt">Ciclismo: Volta à Bélgica</title>
+  <programme start="20210618171500 +0100" stop="20210618183000 +0100" channel="Sky Sports F1 HD">
+    <title lang="en">French F1 GP: Practice 2 Hlts</title>
   </programme>
-  <programme start="20210613040000 +0100" stop="20210613050000 +0100" channel="EUROSPORT 1 HD">
-    <title lang="pt">Ténis: Roland Garros - Torneio Grand Slam</title>
+  <programme start="20210618183000 +0100" stop="20210618191000 +0100" channel="Sky Sports F1 HD">
+    <title lang="en">French F3: Qualifying</title>
   </programme>
-  <programme start="20210613050000 +0100" stop="20210613063000 +0100" channel="EUROSPORT 1 HD">
-    <title lang="pt">Ténis: Roland Garros - Torneio Grand Slam</title>
+  <programme start="20210618191000 +0100" stop="20210618192000 +0100" channel="Sky Sports F1 HD">
+    <title lang="en">Ricciardo's First Day At McLaren</title>
   </programme>
-  <programme start="20210613063000 +0100" stop="20210613073000 +0100" channel="EUROSPORT 1 HD">
-    <title lang="pt">Ciclismo: Volta à Bélgica</title>
+  <programme start="20210618192000 +0100" stop="20210618193000 +0100" channel="Sky Sports F1 HD">
+    <title lang="en">Damon On Moss</title>
   </programme>
-  <programme start="20210613073000 +0100" stop="20210613083000 +0100" channel="EUROSPORT 1 HD">
-    <title lang="pt">Ciclismo: Volta à Eslovénia</title>
+  <programme start="20210618193000 +0100" stop="20210618200000 +0100" channel="Sky Sports F1 HD">
+    <title lang="en">The Inside Line</title>
   </programme>
-  <programme start="20210613083000 +0100" stop="20210613090000 +0100" channel="EUROSPORT 1 HD">
-    <title lang="pt">Ténis: Roland Garros - Torneio Grand Slam</title>
+  <programme start="20210618200000 +0100" stop="20210618211500 +0100" channel="Sky Sports F1 HD">
+    <title lang="en">French F1 GP: Practice 1 Hlts</title>
   </programme>
-  <programme start="20210613090000 +0100" stop="20210613102500 +0100" channel="EUROSPORT 1 HD">
-    <title lang="pt">Ténis: Roland Garros - Torneio Grand Slam</title>
+  <programme start="20210618211500 +0100" stop="20210618223000 +0100" channel="Sky Sports F1 HD">
+    <title lang="en">French F1 GP: Practice 2 Hlts</title>
   </programme>
-  <programme start="20210613102500 +0100" stop="20210613123000 +0100" channel="EUROSPORT 1 HD">
-    <title lang="pt">Ténis: Roland Garros - Torneio Grand Slam (Direto)</title>
+  <programme start="20210618223000 +0100" stop="20210618231000 +0100" channel="Sky Sports F1 HD">
+    <title lang="en">French F3: Qualifying</title>
   </programme>
-  <programme start="20210613123000 +0100" stop="20210613133000 +0100" channel="EUROSPORT 1 HD">
-    <title lang="pt">Ténis: Roland Garros - Torneio Grand Slam</title>
+  <programme start="20210618231000 +0100" stop="20210618232000 +0100" channel="Sky Sports F1 HD">
+    <title lang="en">McLaren Spanish Challenge Part 1</title>
   </programme>
-  <programme start="20210613133000 +0100" stop="20210613173000 +0100" channel="EUROSPORT 1 HD">
-    <title lang="pt">Ténis: Roland Garros - Torneio Grand Slam (Direto)</title>
+  <programme start="20210618232000 +0100" stop="20210618233000 +0100" channel="Sky Sports F1 HD">
+    <title lang="en">McLaren Spanish Challenge Part 2</title>
   </programme>
-  <programme start="20210613173000 +0100" stop="20210613193000 +0100" channel="EUROSPORT 1 HD">
-    <title lang="pt">Carros Resistência: Campeonatos Mundo (Direto)</title>
+  <programme start="20210618233000 +0100" stop="20210618234000 +0100" channel="Sky Sports F1 HD">
+    <title lang="en">GTR Race Feature</title>
   </programme>
-  <programme start="20210613193000 +0100" stop="20210613203000 +0100" channel="EUROSPORT 1 HD">
+  <programme start="20210618234000 +0100" stop="20210618234500 +0100" channel="Sky Sports F1 HD">
+    <title lang="en">Albon and Crofty Challenge</title>
+  </programme>
+  <programme start="20210618033000 +0100" stop="20210618040000 +0100" channel="EUROSPORT 1 HD">
+    <title lang="pt">Ciclismo: Epinal</title>
+  </programme>
+  <programme start="20210618040000 +0100" stop="20210618050000 +0100" channel="EUROSPORT 1 HD">
+    <title lang="pt">Ténis: BUILDING THE LEGEND</title>
+  </programme>
+  <programme start="20210618050000 +0100" stop="20210618060000 +0100" channel="EUROSPORT 1 HD">
     <title lang="pt">Ténis: BEST OF ROLAND GARROS</title>
   </programme>
-  <programme start="20210613203000 +0100" stop="20210613233000 +0100" channel="EUROSPORT 1 HD">
-    <title lang="pt">Ciclismo: Volta à Bélgica</title>
+  <programme start="20210618060000 +0100" stop="20210618073000 +0100" channel="EUROSPORT 1 HD">
+    <title lang="pt">Ciclismo: Adriatica Ionica Race</title>
   </programme>
-  <programme start="20210613233000 +0100" stop="20210614003000 +0100" channel="EUROSPORT 1 HD">
+  <programme start="20210618073000 +0100" stop="20210618083000 +0100" channel="EUROSPORT 1 HD">
+    <title lang="pt">Jogos Olímpicos: HALL OF FAME PEQUIM 2008</title>
+  </programme>
+  <programme start="20210618083000 +0100" stop="20210618100000 +0100" channel="EUROSPORT 1 HD">
+    <title lang="pt">Ciclismo: Adriatica Ionica Race</title>
+  </programme>
+  <programme start="20210618100000 +0100" stop="20210618110000 +0100" channel="EUROSPORT 1 HD">
+    <title lang="pt">Ténis: BUILDING THE LEGEND</title>
+  </programme>
+  <programme start="20210618110000 +0100" stop="20210618120000 +0100" channel="EUROSPORT 1 HD">
+    <title lang="pt">Ténis: BEST OF ROLAND GARROS</title>
+  </programme>
+  <programme start="20210618120000 +0100" stop="20210618123000 +0100" channel="EUROSPORT 1 HD">
+    <title lang="pt">Ciclismo: Campeonato França</title>
+  </programme>
+  <programme start="20210618123000 +0100" stop="20210618140000 +0100" channel="EUROSPORT 1 HD">
+    <title lang="pt">Ciclismo: Epinal</title>
+  </programme>
+  <programme start="20210618140000 +0100" stop="20210618162900 +0100" channel="EUROSPORT 1 HD">
+    <title lang="pt">Ciclismo: Epinal</title>
+  </programme>
+  <programme start="20210618162900 +0100" stop="20210618172700 +0100" channel="EUROSPORT 1 HD">
+    <title lang="pt">Fórmula E: Magazine - Mundial Fórmula E - Resumo meio época</title>
+  </programme>
+  <programme start="20210618172700 +0100" stop="20210618183000 +0100" channel="EUROSPORT 1 HD">
+    <title lang="pt">Motociclismo: Campeonatos Mundo</title>
+  </programme>
+  <programme start="20210618183000 +0100" stop="20210618205900 +0100" channel="EUROSPORT 1 HD">
     <title lang="pt">Carros Resistência: Campeonatos Mundo</title>
   </programme>
-  <programme start="20210613035000 +0100" stop="20210613042000 +0100" channel="SPORTING TV HD">
-    <title lang="pt">Lado B: Gonçalo Pinto</title>
+  <programme start="20210618205900 +0100" stop="20210618225500 +0100" channel="EUROSPORT 1 HD">
+    <title lang="pt">Ténis: Roland Garros</title>
   </programme>
-  <programme start="20210613042000 +0100" stop="20210613043500 +0100" channel="SPORTING TV HD">
+  <programme start="20210618225500 +0100" stop="20210619002900 +0100" channel="EUROSPORT 1 HD">
+    <title lang="pt">Ciclismo: Campeonato França</title>
+  </programme>
+  <programme start="20210618035000 +0100" stop="20210618042000 +0100" channel="SPORTING TV HD">
+    <title lang="pt">Lado B: Edu Pinheiro</title>
+  </programme>
+  <programme start="20210618042000 +0100" stop="20210618050500 +0100" channel="SPORTING TV HD">
+    <title lang="pt">ADN de Leão: Adan</title>
+  </programme>
+  <programme start="20210618050500 +0100" stop="20210618052000 +0100" channel="SPORTING TV HD">
+    <title lang="pt">Sporting Notícias</title>
+  </programme>
+  <programme start="20210618052000 +0100" stop="20210618055000 +0100" channel="SPORTING TV HD">
+    <title lang="pt">Lado B: Tiago Ferreira</title>
+  </programme>
+  <programme start="20210618055000 +0100" stop="20210618060000 +0100" channel="SPORTING TV HD">
+    <title lang="pt">Sporting Notícias</title>
+  </programme>
+  <programme start="20210618060000 +0100" stop="20210618072000 +0100" channel="SPORTING TV HD">
+    <title lang="pt">Hóquei Fem.: Sporting CP x Ad Sanjoanense - Camp. Nacional</title>
+  </programme>
+  <programme start="20210618072000 +0100" stop="20210618073500 +0100" channel="SPORTING TV HD">
     <title lang="pt">Antecâmara Sporting TV</title>
   </programme>
-  <programme start="20210613043500 +0100" stop="20210613050500 +0100" channel="SPORTING TV HD">
-    <title lang="pt">Futebol É Com Elas: Raquel Fernandes</title>
+  <programme start="20210618073500 +0100" stop="20210618074500 +0100" channel="SPORTING TV HD">
+    <title lang="pt">Passaporte Sporting: Cláudia Vicente</title>
   </programme>
-  <programme start="20210613050500 +0100" stop="20210613052000 +0100" channel="SPORTING TV HD">
-    <title lang="pt">Sporting Notícias</title>
-  </programme>
-  <programme start="20210613052000 +0100" stop="20210613055000 +0100" channel="SPORTING TV HD">
-    <title lang="pt">Lado B: André Paulo</title>
-  </programme>
-  <programme start="20210613055000 +0100" stop="20210613060000 +0100" channel="SPORTING TV HD">
-    <title lang="pt">Sporting Notícias</title>
-  </programme>
-  <programme start="20210613060000 +0100" stop="20210613073000 +0100" channel="SPORTING TV HD">
-    <title lang="pt">Futsal: Elétrico FC x Sporting CP - Liga Placard</title>
-  </programme>
-  <programme start="20210613073000 +0100" stop="20210613074500 +0100" channel="SPORTING TV HD">
-    <title lang="pt">Esports \u0026 Gaming</title>
-  </programme>
-  <programme start="20210613074500 +0100" stop="20210613075000 +0100" channel="SPORTING TV HD">
+  <programme start="20210618074500 +0100" stop="20210618075000 +0100" channel="SPORTING TV HD">
     <title lang="pt">Memória Do Dia</title>
   </programme>
-  <programme start="20210613075000 +0100" stop="20210613080000 +0100" channel="SPORTING TV HD">
+  <programme start="20210618075000 +0100" stop="20210618080000 +0100" channel="SPORTING TV HD">
     <title lang="pt">Sporting Notícias</title>
   </programme>
-  <programme start="20210613080000 +0100" stop="20210613083000 +0100" channel="SPORTING TV HD">
-    <title lang="pt">Ginástica Em Casa: Ginástica Para Crianças</title>
+  <programme start="20210618080000 +0100" stop="20210618083000 +0100" channel="SPORTING TV HD">
+    <title lang="pt">Ginástica Em Casa: Postura E Alongamentos</title>
   </programme>
-  <programme start="20210613083000 +0100" stop="20210613084000 +0100" channel="SPORTING TV HD">
+  <programme start="20210618083000 +0100" stop="20210618084000 +0100" channel="SPORTING TV HD">
     <title lang="pt">Sporting Notícias</title>
   </programme>
-  <programme start="20210613084000 +0100" stop="20210613111000 +0100" channel="SPORTING TV HD">
-    <title lang="pt">Ténis De Mesa: Sporting CP x Gd Toledos - Camp. Nacional</title>
+  <programme start="20210618084000 +0100" stop="20210618101500 +0100" channel="SPORTING TV HD">
+    <title lang="pt">Hóquei Fem.: Sporting CP x Ud Vilafranquense - Camp. Nacional</title>
   </programme>
-  <programme start="20210613111000 +0100" stop="20210613112500 +0100" channel="SPORTING TV HD">
-    <title lang="pt">Sporting Notícias</title>
-  </programme>
-  <programme start="20210613112500 +0100" stop="20210613130000 +0100" channel="SPORTING TV HD">
-    <title lang="pt">Estamos Em Casa</title>
-  </programme>
-  <programme start="20210613130000 +0100" stop="20210613143000 +0100" channel="SPORTING TV HD">
-    <title lang="pt">ADN de Leão: Ângelo Girão</title>
-  </programme>
-  <programme start="20210613143000 +0100" stop="20210613145500 +0100" channel="SPORTING TV HD">
-    <title lang="pt">Sporting Notícias</title>
-  </programme>
-  <programme start="20210613145500 +0100" stop="20210613164000 +0100" channel="SPORTING TV HD">
-    <title lang="pt">Hóquei: FC Porto x Sporting CP - Camp. Nacional (Direto)</title>
-  </programme>
-  <programme start="20210613164000 +0100" stop="20210613172500 +0100" channel="SPORTING TV HD">
-    <title lang="pt">Sporting Notícias</title>
-  </programme>
-  <programme start="20210613172500 +0100" stop="20210613190000 +0100" channel="SPORTING TV HD">
-    <title lang="pt">Futsal: SL Benfica x Sporting CP - Liga Placard (Direto)</title>
-  </programme>
-  <programme start="20210613190000 +0100" stop="20210613193000 +0100" channel="SPORTING TV HD">
-    <title lang="pt">Sporting Notícias</title>
-  </programme>
-  <programme start="20210613193000 +0100" stop="20210613194500 +0100" channel="SPORTING TV HD">
+  <programme start="20210618101500 +0100" stop="20210618103000 +0100" channel="SPORTING TV HD">
     <title lang="pt">Esports \u0026 Gaming</title>
   </programme>
-  <programme start="20210613194500 +0100" stop="20210613200000 +0100" channel="SPORTING TV HD">
-    <title lang="pt">Antecâmara Sporting TV</title>
+  <programme start="20210618103000 +0100" stop="20210618104500 +0100" channel="SPORTING TV HD">
+    <title lang="pt">Sporting Notícias</title>
   </programme>
-  <programme start="20210613200000 +0100" stop="20210613205000 +0100" channel="SPORTING TV HD">
-    <title lang="pt">ADN de Leão: Best Of - Parte 1</title>
+  <programme start="20210618104500 +0100" stop="20210618124500 +0100" channel="SPORTING TV HD">
+    <title lang="pt">Sporting CP x Cs Marítimo - Primeira Liga</title>
   </programme>
-  <programme start="20210613205000 +0100" stop="20210613210000 +0100" channel="SPORTING TV HD">
-    <title lang="pt">Passaporte Sporting: Diogo Brites</title>
+  <programme start="20210618124500 +0100" stop="20210618130000 +0100" channel="SPORTING TV HD">
+    <title lang="pt">Sporting Notícias</title>
   </programme>
-  <programme start="20210613210000 +0100" stop="20210613213000 +0100" channel="SPORTING TV HD">
-    <title lang="pt">12.º Jogador: Campeão Sobre Rodas</title>
+  <programme start="20210618130000 +0100" stop="20210618144000 +0100" channel="SPORTING TV HD">
+    <title lang="pt">Hóquei: Sporting CP x FC Porto - Camp. Nacional</title>
   </programme>
-  <programme start="20210613213000 +0100" stop="20210613223000 +0100" channel="SPORTING TV HD">
+  <programme start="20210618144000 +0100" stop="20210618144500 +0100" channel="SPORTING TV HD">
+    <title lang="pt">Memória Do Dia</title>
+  </programme>
+  <programme start="20210618144500 +0100" stop="20210618150000 +0100" channel="SPORTING TV HD">
+    <title lang="pt">Sporting Notícias</title>
+  </programme>
+  <programme start="20210618150000 +0100" stop="20210618160000 +0100" channel="SPORTING TV HD">
+    <title lang="pt">Leões De Portugal: Bolsas De Estudo</title>
+  </programme>
+  <programme start="20210618160000 +0100" stop="20210618163000 +0100" channel="SPORTING TV HD">
+    <title lang="pt">Sporting Corporate: Rocktape</title>
+  </programme>
+  <programme start="20210618163000 +0100" stop="20210618170000 +0100" channel="SPORTING TV HD">
+    <title lang="pt">Sporting Reportagem: Sprint Pela Liberdade</title>
+  </programme>
+  <programme start="20210618170000 +0100" stop="20210618180000 +0100" channel="SPORTING TV HD">
+    <title lang="pt">Boa Tarde Sporting</title>
+  </programme>
+  <programme start="20210618180000 +0100" stop="20210618183000 +0100" channel="SPORTING TV HD">
+    <title lang="pt">Magazine Modalidades</title>
+  </programme>
+  <programme start="20210618183000 +0100" stop="20210618190000 +0100" channel="SPORTING TV HD">
+    <title lang="pt">Sporting Notícias</title>
+  </programme>
+  <programme start="20210618190000 +0100" stop="20210618190500 +0100" channel="SPORTING TV HD">
+    <title lang="pt">60 Segundos De Sporting</title>
+  </programme>
+  <programme start="20210618190500 +0100" stop="20210618193000 +0100" channel="SPORTING TV HD">
+    <title lang="pt">19:06</title>
+  </programme>
+  <programme start="20210618193000 +0100" stop="20210618212500 +0100" channel="SPORTING TV HD">
+    <title lang="pt">Sporting CP x Leixões Sc - Torneio Nacional Sub-19</title>
+  </programme>
+  <programme start="20210618212500 +0100" stop="20210618213000 +0100" channel="SPORTING TV HD">
+    <title lang="pt">60 Segundos De Sporting</title>
+  </programme>
+  <programme start="20210618213000 +0100" stop="20210618223000 +0100" channel="SPORTING TV HD">
     <title lang="pt">Sporting Grande Jornal</title>
   </programme>
-  <programme start="20210613223000 +0100" stop="20210613223500 +0100" channel="SPORTING TV HD">
+  <programme start="20210618223000 +0100" stop="20210618223500 +0100" channel="SPORTING TV HD">
     <title lang="pt">Memória Do Dia</title>
   </programme>
-  <programme start="20210613223500 +0100" stop="20210614004000 +0100" channel="SPORTING TV HD">
-    <title lang="pt">Estamos Em Casa</title>
+  <programme start="20210618223500 +0100" stop="20210618233500 +0100" channel="SPORTING TV HD">
+    <title lang="pt">Sporting Especial</title>
   </programme>
-  <programme start="20210613031500 +0100" stop="20210613042500 +0100" channel="Canal 11 HD">
-    <title lang="pt">Fut. Praia: ACD Sótão x Sporting - Elite</title>
+  <programme start="20210618233500 +0100" stop="20210619020000 +0100" channel="SPORTING TV HD">
+    <title lang="pt">VAR: Future Challenges</title>
   </programme>
-  <programme start="20210613042500 +0100" stop="20210613061500 +0100" channel="Canal 11 HD">
-    <title lang="pt">Benfica x FC Porto - Torneio Nacional 1ª Divisão SUB-19</title>
+  <programme start="20210618032000 +0100" stop="20210618052000 +0100" channel="Canal 11 HD">
+    <title lang="pt">Futebol Total</title>
   </programme>
-  <programme start="20210613061500 +0100" stop="20210613063500 +0100" channel="Canal 11 HD">
-    <title lang="pt">Meu Clube - Clube U. Culatrense</title>
+  <programme start="20210618052000 +0100" stop="20210618054000 +0100" channel="Canal 11 HD">
+    <title lang="pt">Meu Clube - C.C.D Caxarias</title>
   </programme>
-  <programme start="20210613063500 +0100" stop="20210613074000 +0100" channel="Canal 11 HD">
-    <title lang="pt">Super Mister Quiz</title>
+  <programme start="20210618054000 +0100" stop="20210618063000 +0100" channel="Canal 11 HD">
+    <title lang="pt">Sagrado Balneário - Pauleta (2ª Parte)</title>
   </programme>
-  <programme start="20210613074000 +0100" stop="20210613083000 +0100" channel="Canal 11 HD">
-    <title lang="pt">História De Portugal - Manuel Fernandes</title>
+  <programme start="20210618063000 +0100" stop="20210618065000 +0100" channel="Canal 11 HD">
+    <title lang="pt">Meu Clube - Cd Marítimo Olhanense</title>
   </programme>
-  <programme start="20210613083000 +0100" stop="20210613092500 +0100" channel="Canal 11 HD">
-    <title lang="pt">Sagrado Balneário - Toni</title>
+  <programme start="20210618065000 +0100" stop="20210618070500 +0100" channel="Canal 11 HD">
+    <title lang="pt">O Futebol É Um Mundo - Nun´Álvares Orgulho No Feminino</title>
   </programme>
-  <programme start="20210613092500 +0100" stop="20210613100000 +0100" channel="Canal 11 HD">
-    <title lang="pt">Futebol A Sério - Jaume Grau</title>
+  <programme start="20210618070500 +0100" stop="20210618074000 +0100" channel="Canal 11 HD">
+    <title lang="pt">Futebol A Sério - Francisco Geraldes</title>
   </programme>
-  <programme start="20210613100000 +0100" stop="20210613111000 +0100" channel="Canal 11 HD">
-    <title lang="pt">Fut. Praia: Sporting x GRAP - Elite (Direto)</title>
+  <programme start="20210618074000 +0100" stop="20210618094000 +0100" channel="Canal 11 HD">
+    <title lang="pt">Futebol Total</title>
   </programme>
-  <programme start="20210613111000 +0100" stop="20210613113000 +0100" channel="Canal 11 HD">
-    <title lang="pt">Amor A Camisola - Futebol Em Palco</title>
+  <programme start="20210618094000 +0100" stop="20210618100000 +0100" channel="Canal 11 HD">
+    <title lang="pt">Sair A Jogar - Sérgio Conceição</title>
   </programme>
-  <programme start="20210613113000 +0100" stop="20210613124000 +0100" channel="Canal 11 HD">
-    <title lang="pt">Fut. Praia: SC Braga x ACD Sótão - Elite (Direto)</title>
+  <programme start="20210618100000 +0100" stop="20210618111500 +0100" channel="Canal 11 HD">
+    <title lang="pt">Futebol Praia Femin.: Inglaterra x República Checa (Direto)</title>
   </programme>
-  <programme start="20210613124000 +0100" stop="20210613130000 +0100" channel="Canal 11 HD">
-    <title lang="pt">Sair A Jogar - Rafael Santos</title>
+  <programme start="20210618111500 +0100" stop="20210618122500 +0100" channel="Canal 11 HD">
+    <title lang="pt">Futebol Praia: Ucrânia x Azerbaijão - Euro (Direto)</title>
   </programme>
-  <programme start="20210613130000 +0100" stop="20210613141000 +0100" channel="Canal 11 HD">
-    <title lang="pt">Fut. Praia: Casa Benfica De Loures x Varzim - Elite (Direto)</title>
-  </programme>
-  <programme start="20210613141000 +0100" stop="20210613143000 +0100" channel="Canal 11 HD">
+  <programme start="20210618122500 +0100" stop="20210618124500 +0100" channel="Canal 11 HD">
     <title lang="pt">O Futebol É Um Mundo - Um Amor Chamado Lixa</title>
   </programme>
-  <programme start="20210613143000 +0100" stop="20210613154000 +0100" channel="Canal 11 HD">
-    <title lang="pt">Fut. Praia: AD Buarcos x Chaves - Elite (Direto)</title>
+  <programme start="20210618124500 +0100" stop="20210618140000 +0100" channel="Canal 11 HD">
+    <title lang="pt">Futebol Praia: Portugal x Alemanha - Euro (Direto)</title>
   </programme>
-  <programme start="20210613154000 +0100" stop="20210613160000 +0100" channel="Canal 11 HD">
-    <title lang="pt">Sair A Jogar - André Gomes</title>
+  <programme start="20210618140000 +0100" stop="20210618151000 +0100" channel="Canal 11 HD">
+    <title lang="pt">Futebol Praia: Itália x Polónia - Euro (Direto)</title>
   </programme>
-  <programme start="20210613160000 +0100" stop="20210613170000 +0100" channel="Canal 11 HD">
+  <programme start="20210618151000 +0100" stop="20210618153000 +0100" channel="Canal 11 HD">
+    <title lang="pt">Sair A Jogar - Sérgio Conceição</title>
+  </programme>
+  <programme start="20210618153000 +0100" stop="20210618164000 +0100" channel="Canal 11 HD">
+    <title lang="pt">Futebol Praia: Espanha x Turquia - Euro (Direto)</title>
+  </programme>
+  <programme start="20210618164000 +0100" stop="20210618170000 +0100" channel="Canal 11 HD">
     <title lang="pt">11 No Euro</title>
   </programme>
-  <programme start="20210613170000 +0100" stop="20210613190000 +0100" channel="Canal 11 HD">
-    <title lang="pt">Fut. Fem.: II Divisão Camp. Nacional (Direto)</title>
+  <programme start="20210618170000 +0100" stop="20210618173000 +0100" channel="Canal 11 HD">
+    <title lang="pt">Máquina Do Tempo - Jorge Lima E José Costa</title>
   </programme>
-  <programme start="20210613190000 +0100" stop="20210613200000 +0100" channel="Canal 11 HD">
+  <programme start="20210618173000 +0100" stop="20210618175000 +0100" channel="Canal 11 HD">
+    <title lang="pt">Meu Clube - Gd Lagoa</title>
+  </programme>
+  <programme start="20210618175000 +0100" stop="20210618180000 +0100" channel="Canal 11 HD">
+    <title lang="pt">Sair A Jogar - Sérgio Conceição</title>
+  </programme>
+  <programme start="20210618180000 +0100" stop="20210618181500 +0100" channel="Canal 11 HD">
+    <title lang="pt">Amor A Camisola - Futsal No Bairro Leões Porto Salvo</title>
+  </programme>
+  <programme start="20210618181500 +0100" stop="20210618191500 +0100" channel="Canal 11 HD">
+    <title lang="pt">Futebol Praia: Suíça x França - Euro (Direto)</title>
+  </programme>
+  <programme start="20210618191500 +0100" stop="20210618200000 +0100" channel="Canal 11 HD">
     <title lang="pt">11 No Euro</title>
   </programme>
-  <programme start="20210613200000 +0100" stop="20210613220000 +0100" channel="Canal 11 HD">
-    <title lang="pt">Grémio x Ath. Paranaense - Brasileirão (Direto)</title>
+  <programme start="20210618200000 +0100" stop="20210618210000 +0100" channel="Canal 11 HD">
+    <title lang="pt">Futebol Praia: Itália x Polónia - Euro</title>
   </programme>
-  <programme start="20210613220000 +0100" stop="20210613231000 +0100" channel="Canal 11 HD">
+  <programme start="20210618210000 +0100" stop="20210618215000 +0100" channel="Canal 11 HD">
+    <title lang="pt">Futebol Praia: Portugal x Alemanha - Euro</title>
+  </programme>
+  <programme start="20210618215000 +0100" stop="20210618224500 +0100" channel="Canal 11 HD">
     <title lang="pt">11 No Euro</title>
   </programme>
-  <programme start="20210613231000 +0100" stop="20210614001500 +0100" channel="Canal 11 HD">
+  <programme start="20210618224500 +0100" stop="20210618234000 +0100" channel="Canal 11 HD">
+    <title lang="pt">Sagrado Balneário - António Carraça</title>
+  </programme>
+  <programme start="20210618234000 +0100" stop="20210619004000 +0100" channel="Canal 11 HD">
     <title lang="pt">Super Mister Quiz</title>
   </programme>
-  <programme start="20210613035900 +0100" stop="20210613052500 +0100" channel="Benfica TV 1 HD">
-    <title lang="pt">Hóquei: Benfica B x Sporting B - Camp. Nacional</title>
+  <programme start="20210618034500 +0100" stop="20210618041900 +0100" channel="Benfica TV 1 HD">
+    <title lang="pt">Contas Feitas, Dúvidas Desfeitas</title>
   </programme>
-  <programme start="20210613052500 +0100" stop="20210613055300 +0100" channel="Benfica TV 1 HD">
-    <title lang="pt">Corporate Club</title>
+  <programme start="20210618041900 +0100" stop="20210618045100 +0100" channel="Benfica TV 1 HD">
+    <title lang="pt">Jornal o Benfica</title>
   </programme>
-  <programme start="20210613055300 +0100" stop="20210613071800 +0100" channel="Benfica TV 1 HD">
-    <title lang="pt">Andebol: Benfica x ARC Alpendorada - Femininos</title>
+  <programme start="20210618045100 +0100" stop="20210618051800 +0100" channel="Benfica TV 1 HD">
+    <title lang="pt">Benfica Olímpico</title>
   </programme>
-  <programme start="20210613071800 +0100" stop="20210613074300 +0100" channel="Benfica TV 1 HD">
+  <programme start="20210618051800 +0100" stop="20210618054800 +0100" channel="Benfica TV 1 HD">
+    <title lang="pt">Netpress BTV</title>
+  </programme>
+  <programme start="20210618054800 +0100" stop="20210618061300 +0100" channel="Benfica TV 1 HD">
     <title lang="pt">Benfica 24 Horas</title>
   </programme>
-  <programme start="20210613074300 +0100" stop="20210613081400 +0100" channel="Benfica TV 1 HD">
-    <title lang="pt">Os Momentos</title>
+  <programme start="20210618061300 +0100" stop="20210618064700 +0100" channel="Benfica TV 1 HD">
+    <title lang="pt">Protagonista</title>
   </programme>
-  <programme start="20210613081400 +0100" stop="20210613095900 +0100" channel="Benfica TV 1 HD">
-    <title lang="pt">Benfica x FC Porto - Juniores</title>
+  <programme start="20210618064700 +0100" stop="20210618080700 +0100" channel="Benfica TV 1 HD">
+    <title lang="pt">Voleibol: Benfica x Ala De Nun´Alvares - Camp. Nacional</title>
   </programme>
-  <programme start="20210613095900 +0100" stop="20210613105700 +0100" channel="Benfica TV 1 HD">
-    <title lang="pt">Benfica 10H</title>
+  <programme start="20210618080700 +0100" stop="20210618083200 +0100" channel="Benfica TV 1 HD">
+    <title lang="pt">Benfica 24 Horas</title>
   </programme>
-  <programme start="20210613105700 +0100" stop="20210613125700 +0100" channel="Benfica TV 1 HD">
-    <title lang="pt">Benfica x Vitória Sc - Juvenis (Direto)</title>
+  <programme start="20210618083200 +0100" stop="20210618093500 +0100" channel="Benfica TV 1 HD">
+    <title lang="pt">Hóquei: Benfica x Apac Tojal - Camp. Nacional</title>
   </programme>
-  <programme start="20210613125700 +0100" stop="20210613132900 +0100" channel="Benfica TV 1 HD">
-    <title lang="pt">Off Road Magazine</title>
-  </programme>
-  <programme start="20210613132900 +0100" stop="20210613140100 +0100" channel="Benfica TV 1 HD">
-    <title lang="pt">Benfica 14 Horas</title>
-  </programme>
-  <programme start="20210613140100 +0100" stop="20210613152500 +0100" channel="Benfica TV 1 HD">
-    <title lang="pt">Hóquei: Benfica B x Sporting B - Camp. Nacional</title>
-  </programme>
-  <programme start="20210613152500 +0100" stop="20210613165000 +0100" channel="Benfica TV 1 HD">
-    <title lang="pt">Futsal: Belenenses x Benfica - Sub21 Taça AFL</title>
-  </programme>
-  <programme start="20210613165000 +0100" stop="20210613172700 +0100" channel="Benfica TV 1 HD">
-    <title lang="pt">Notícias</title>
-  </programme>
-  <programme start="20210613172700 +0100" stop="20210613193000 +0100" channel="Benfica TV 1 HD">
-    <title lang="pt">Futsal: Benfica x Sporting - Camp. Nacional (Direto)</title>
-  </programme>
-  <programme start="20210613193000 +0100" stop="20210613200200 +0100" channel="Benfica TV 1 HD">
-    <title lang="pt">Notícias</title>
-  </programme>
-  <programme start="20210613200200 +0100" stop="20210613203200 +0100" channel="Benfica TV 1 HD">
-    <title lang="pt">Pelas Casas do Benfica</title>
-  </programme>
-  <programme start="20210613203200 +0100" stop="20210613205900 +0100" channel="Benfica TV 1 HD">
-    <title lang="pt">Car Online TV</title>
-  </programme>
-  <programme start="20210613205900 +0100" stop="20210613213600 +0100" channel="Benfica TV 1 HD">
-    <title lang="pt">Benfica 21 Horas</title>
-  </programme>
-  <programme start="20210613213600 +0100" stop="20210613231600 +0100" channel="Benfica TV 1 HD">
-    <title lang="pt">Benfica x Vitória Sc - Juvenis</title>
-  </programme>
-  <programme start="20210613231600 +0100" stop="20210613232900 +0100" channel="Benfica TV 1 HD">
+  <programme start="20210618093500 +0100" stop="20210618094800 +0100" channel="Benfica TV 1 HD">
     <title lang="pt">Salão de Jogos</title>
   </programme>
-  <programme start="20210613232900 +0100" stop="20210613235500 +0100" channel="Benfica TV 1 HD">
+  <programme start="20210618094800 +0100" stop="20210618095900 +0100" channel="Benfica TV 1 HD">
+    <title lang="pt">Fundação Benfica</title>
+  </programme>
+  <programme start="20210618095900 +0100" stop="20210618105700 +0100" channel="Benfica TV 1 HD">
+    <title lang="pt">Benfica 10H</title>
+  </programme>
+  <programme start="20210618105700 +0100" stop="20210618125200 +0100" channel="Benfica TV 1 HD">
+    <title lang="pt">Sc Braga x Benfica - Juvenis (Direto)</title>
+  </programme>
+  <programme start="20210618125200 +0100" stop="20210618131800 +0100" channel="Benfica TV 1 HD">
+    <title lang="pt">Benfica Olímpico</title>
+  </programme>
+  <programme start="20210618131800 +0100" stop="20210618132500 +0100" channel="Benfica TV 1 HD">
+    <title lang="pt">TT Beja - André Rodrigues</title>
+  </programme>
+  <programme start="20210618132500 +0100" stop="20210618135900 +0100" channel="Benfica TV 1 HD">
+    <title lang="pt">Protagonista</title>
+  </programme>
+  <programme start="20210618135900 +0100" stop="20210618143000 +0100" channel="Benfica TV 1 HD">
+    <title lang="pt">Benfica 14 Horas</title>
+  </programme>
+  <programme start="20210618143000 +0100" stop="20210618160000 +0100" channel="Benfica TV 1 HD">
+    <title lang="pt">Basquetebol: Benfica x Belenenses - Sub16</title>
+  </programme>
+  <programme start="20210618160000 +0100" stop="20210618162700 +0100" channel="Benfica TV 1 HD">
+    <title lang="pt">Notícias</title>
+  </programme>
+  <programme start="20210618162700 +0100" stop="20210618165600 +0100" channel="Benfica TV 1 HD">
+    <title lang="pt">Aqui Mando Eu</title>
+  </programme>
+  <programme start="20210618165600 +0100" stop="20210618175600 +0100" channel="Benfica TV 1 HD">
+    <title lang="pt">Uma Semana do Melhor</title>
+  </programme>
+  <programme start="20210618175600 +0100" stop="20210618190000 +0100" channel="Benfica TV 1 HD">
+    <title lang="pt">Agenda Desportiva</title>
+  </programme>
+  <programme start="20210618190000 +0100" stop="20210618193200 +0100" channel="Benfica TV 1 HD">
+    <title lang="pt">Notícias</title>
+  </programme>
+  <programme start="20210618193200 +0100" stop="20210618193800 +0100" channel="Benfica TV 1 HD">
+    <title lang="pt">TT Beja - André Rodrigues</title>
+  </programme>
+  <programme start="20210618193800 +0100" stop="20210618200500 +0100" channel="Benfica TV 1 HD">
+    <title lang="pt">Pelas Casas do Benfica</title>
+  </programme>
+  <programme start="20210618200500 +0100" stop="20210618203100 +0100" channel="Benfica TV 1 HD">
+    <title lang="pt">Benfica Olímpico</title>
+  </programme>
+  <programme start="20210618203100 +0100" stop="20210618205900 +0100" channel="Benfica TV 1 HD">
+    <title lang="pt">Car Online TV</title>
+  </programme>
+  <programme start="20210618205900 +0100" stop="20210618212700 +0100" channel="Benfica TV 1 HD">
+    <title lang="pt">Benfica 21 Horas</title>
+  </programme>
+  <programme start="20210618212700 +0100" stop="20210618230400 +0100" channel="Benfica TV 1 HD">
+    <title lang="pt">Basquetebol: Benfica x Odisseia Basquetebol - Sub16 (Direto)</title>
+  </programme>
+  <programme start="20210618230400 +0100" stop="20210618233700 +0100" channel="Benfica TV 1 HD">
+    <title lang="pt">Netpress BTV</title>
+  </programme>
+  <programme start="20210618233700 +0100" stop="20210619000200 +0100" channel="Benfica TV 1 HD">
     <title lang="pt">Benfica 24 Horas</title>
   </programme>
-  <programme start="20210613235500 +0100" stop="20210614014900 +0100" channel="Benfica TV 1 HD">
-    <title lang="pt">Futsal: Benfica x Sporting - Camp. Nacional</title>
-  </programme>
-  <programme start="20210613021000 +0100" stop="20210613040800 +0100" channel="RTP 1 HD">
-    <title lang="pt">Festival Eurovisão da Canção: A História dos Fire Saga</title>
-  </programme>
-  <programme start="20210613040800 +0100" stop="20210613060800 +0100" channel="RTP 1 HD">
+  <programme start="20210618031300 +0100" stop="20210618055900 +0100" channel="RTP 1 HD">
     <title lang="pt">Televendas</title>
   </programme>
-  <programme start="20210613060800 +0100" stop="20210613063000 +0100" channel="RTP 1 HD">
-    <title lang="pt">Todas as Palavras</title>
+  <programme start="20210618055900 +0100" stop="20210618063000 +0100" channel="RTP 1 HD">
+    <title lang="pt">Manchetes 3</title>
   </programme>
-  <programme start="20210613063000 +0100" stop="20210613080000 +0100" channel="RTP 1 HD">
-    <title lang="pt">Zig Zag</title>
+  <programme start="20210618063000 +0100" stop="20210618100000 +0100" channel="RTP 1 HD">
+    <title lang="pt">Bom Dia Portugal</title>
   </programme>
-  <programme start="20210613080000 +0100" stop="20210613103000 +0100" channel="RTP 1 HD">
-    <title lang="pt">Bom Dia Portugal Fim de Semana</title>
+  <programme start="20210618100000 +0100" stop="20210618125900 +0100" channel="RTP 1 HD">
+    <title lang="pt">Praça da Alegria</title>
   </programme>
-  <programme start="20210613103000 +0100" stop="20210613115400 +0100" channel="RTP 1 HD">
-    <title lang="pt">Eucaristia Dominical</title>
-  </programme>
-  <programme start="20210613115400 +0100" stop="20210613125900 +0100" channel="RTP 1 HD">
-    <title lang="pt">Património Mundial Da Unesco - A Cápsula Do Tempo Da Humanidade</title>
-  </programme>
-  <programme start="20210613125900 +0100" stop="20210613142800 +0100" channel="RTP 1 HD">
+  <programme start="20210618125900 +0100" stop="20210618142400 +0100" channel="RTP 1 HD">
     <title lang="pt">Jornal da Tarde</title>
   </programme>
-  <programme start="20210613142800 +0100" stop="20210613153200 +0100" channel="RTP 1 HD">
-    <title lang="pt">Faz Faísca</title>
+  <programme start="20210618142400 +0100" stop="20210618150500 +0100" channel="RTP 1 HD">
+    <title lang="pt">Os Nossos Dias</title>
   </programme>
-  <programme start="20210613153200 +0100" stop="20210613174700 +0100" channel="RTP 1 HD">
-    <title lang="pt">O Pai Tirano</title>
+  <programme start="20210618150500 +0100" stop="20210618173000 +0100" channel="RTP 1 HD">
+    <title lang="pt">A Nossa Tarde</title>
   </programme>
-  <programme start="20210613174700 +0100" stop="20210613195900 +0100" channel="RTP 1 HD">
-    <title lang="pt">Enquanto Houver Santo António</title>
+  <programme start="20210618173000 +0100" stop="20210618190900 +0100" channel="RTP 1 HD">
+    <title lang="pt">Portugal em Direto</title>
   </programme>
-  <programme start="20210613195900 +0100" stop="20210613212100 +0100" channel="RTP 1 HD">
+  <programme start="20210618190900 +0100" stop="20210618195900 +0100" channel="RTP 1 HD">
+    <title lang="pt">O Preço Certo</title>
+  </programme>
+  <programme start="20210618195900 +0100" stop="20210618210100 +0100" channel="RTP 1 HD">
     <title lang="pt">Telejornal</title>
   </programme>
-  <programme start="20210613212100 +0100" stop="20210614003000 +0100" channel="RTP 1 HD">
-    <title lang="pt">Got Talent Portugal</title>
+  <programme start="20210618210100 +0100" stop="20210618214500 +0100" channel="RTP 1 HD">
+    <title lang="pt">Sexta às 9</title>
   </programme>
-  <programme start="20210613035700 +0100" stop="20210613070000 +0100" channel="RTP 2">
+  <programme start="20210618214500 +0100" stop="20210618225300 +0100" channel="RTP 1 HD">
+    <title lang="pt">Joker</title>
+  </programme>
+  <programme start="20210618225300 +0100" stop="20210618230300 +0100" channel="RTP 1 HD">
+    <title lang="pt">Euro 2020 - Os Dias do Euro</title>
+  </programme>
+  <programme start="20210618230300 +0100" stop="20210619010000 +0100" channel="RTP 1 HD">
+    <title lang="pt">Em Casa D\u0027Amália - Especial Centenário</title>
+  </programme>
+  <programme start="20210618014900 +0100" stop="20210618054500 +0100" channel="RTP 2">
     <title lang="pt">Euronews</title>
   </programme>
-  <programme start="20210613070000 +0100" stop="20210613080000 +0100" channel="RTP 2">
-    <title lang="pt">Euronews</title>
+  <programme start="20210618054500 +0100" stop="20210618063200 +0100" channel="RTP 2">
+    <title lang="pt">Água De Mar</title>
   </programme>
-  <programme start="20210613080000 +0100" stop="20210613103200 +0100" channel="RTP 2">
-    <title lang="pt">Ginástica: Campeonato Da Europa De Ginástica Ritmica (Direto)</title>
+  <programme start="20210618063200 +0100" stop="20210618070000 +0100" channel="RTP 2">
+    <title lang="pt">Repórter África</title>
   </programme>
-  <programme start="20210613103200 +0100" stop="20210613110000 +0100" channel="RTP 2">
-    <title lang="pt">Visita Guiada</title>
+  <programme start="20210618070000 +0100" stop="20210618070100 +0100" channel="RTP 2">
+    <title lang="pt">Espaço Zig Zag</title>
   </programme>
-  <programme start="20210613110000 +0100" stop="20210613124200 +0100" channel="RTP 2">
-    <title lang="pt">Ginástica: Campeonato Da Europa De Ginástica Ritmica (Direto)</title>
+  <programme start="20210618070100 +0100" stop="20210618070200 +0100" channel="RTP 2">
+    <title lang="pt">Banda Zig Zag</title>
   </programme>
-  <programme start="20210613124200 +0100" stop="20210613130600 +0100" channel="RTP 2">
+  <programme start="20210618070200 +0100" stop="20210618072600 +0100" channel="RTP 2">
+    <title lang="pt">Wow! Wow! Wubbzy!</title>
+  </programme>
+  <programme start="20210618072600 +0100" stop="20210618073800 +0100" channel="RTP 2">
+    <title lang="pt">Kid Lucky</title>
+  </programme>
+  <programme start="20210618073800 +0100" stop="20210618075100 +0100" channel="RTP 2">
+    <title lang="pt">O Vale Encantado</title>
+  </programme>
+  <programme start="20210618075100 +0100" stop="20210618075400 +0100" channel="RTP 2">
+    <title lang="pt">Molang</title>
+  </programme>
+  <programme start="20210618075400 +0100" stop="20210618080000 +0100" channel="RTP 2">
+    <title lang="pt">Mia Go</title>
+  </programme>
+  <programme start="20210618080000 +0100" stop="20210618080700 +0100" channel="RTP 2">
+    <title lang="pt">Bing</title>
+  </programme>
+  <programme start="20210618080700 +0100" stop="20210618081100 +0100" channel="RTP 2">
+    <title lang="pt">Bing</title>
+  </programme>
+  <programme start="20210618081100 +0100" stop="20210618082200 +0100" channel="RTP 2">
+    <title lang="pt">As Regras do Ângelo</title>
+  </programme>
+  <programme start="20210618082200 +0100" stop="20210618083000 +0100" channel="RTP 2">
+    <title lang="pt">As Regras do Ângelo</title>
+  </programme>
+  <programme start="20210618083000 +0100" stop="20210618084000 +0100" channel="RTP 2">
+    <title lang="pt">Vivi Vira Vento</title>
+  </programme>
+  <programme start="20210618084000 +0100" stop="20210618085100 +0100" channel="RTP 2">
+    <title lang="pt">Vivi Vira Vento</title>
+  </programme>
+  <programme start="20210618085100 +0100" stop="20210618090300 +0100" channel="RTP 2">
+    <title lang="pt">Radar XS</title>
+  </programme>
+  <programme start="20210618090300 +0100" stop="20210618091400 +0100" channel="RTP 2">
+    <title lang="pt">Mouk</title>
+  </programme>
+  <programme start="20210618091400 +0100" stop="20210618092500 +0100" channel="RTP 2">
+    <title lang="pt">Mouk</title>
+  </programme>
+  <programme start="20210618092500 +0100" stop="20210618093600 +0100" channel="RTP 2">
+    <title lang="pt">Bitz e Bob</title>
+  </programme>
+  <programme start="20210618093600 +0100" stop="20210618094900 +0100" channel="RTP 2">
+    <title lang="pt">Floopaloo, Onde Estás Tu?</title>
+  </programme>
+  <programme start="20210618094900 +0100" stop="20210618100200 +0100" channel="RTP 2">
+    <title lang="pt">Floopaloo, Onde Estás Tu?</title>
+  </programme>
+  <programme start="20210618100200 +0100" stop="20210618100400 +0100" channel="RTP 2">
+    <title lang="pt">Animais</title>
+  </programme>
+  <programme start="20210618100400 +0100" stop="20210618101500 +0100" channel="RTP 2">
+    <title lang="pt">Mini Ninjas</title>
+  </programme>
+  <programme start="20210618101500 +0100" stop="20210618102700 +0100" channel="RTP 2">
+    <title lang="pt">Mini Ninjas</title>
+  </programme>
+  <programme start="20210618102700 +0100" stop="20210618111400 +0100" channel="RTP 2">
+    <title lang="pt">Fora do Baralho</title>
+  </programme>
+  <programme start="20210618111400 +0100" stop="20210618113600 +0100" channel="RTP 2">
+    <title lang="pt">A Madeira E A Viagem Do Açucar</title>
+  </programme>
+  <programme start="20210618113600 +0100" stop="20210618122000 +0100" channel="RTP 2">
+    <title lang="pt">Europa 30</title>
+  </programme>
+  <programme start="20210618122000 +0100" stop="20210618130400 +0100" channel="RTP 2">
+    <title lang="pt">Escola Noturna - Os Sonhos Nunca Dormem</title>
+  </programme>
+  <programme start="20210618130400 +0100" stop="20210618133100 +0100" channel="RTP 2">
+    <title lang="pt">Esec-TV</title>
+  </programme>
+  <programme start="20210618133100 +0100" stop="20210618140000 +0100" channel="RTP 2">
+    <title lang="pt">Universidade Do Nosso Tempo</title>
+  </programme>
+  <programme start="20210618140000 +0100" stop="20210618150200 +0100" channel="RTP 2">
+    <title lang="pt">Sociedade Civil</title>
+  </programme>
+  <programme start="20210618150200 +0100" stop="20210618153700 +0100" channel="RTP 2">
+    <title lang="pt">A Fé Dos Homens</title>
+  </programme>
+  <programme start="20210618153700 +0100" stop="20210618155800 +0100" channel="RTP 2">
+    <title lang="pt">Salvador - Podias Ser Tu</title>
+  </programme>
+  <programme start="20210618155800 +0100" stop="20210618165100 +0100" channel="RTP 2">
+    <title lang="pt">A Grande História Do Esqui</title>
+  </programme>
+  <programme start="20210618165100 +0100" stop="20210618165200 +0100" channel="RTP 2">
+    <title lang="pt">Espaço Zig Zag</title>
+  </programme>
+  <programme start="20210618165200 +0100" stop="20210618171500 +0100" channel="RTP 2">
+    <title lang="pt">Wow! Wow! Wubbzy!</title>
+  </programme>
+  <programme start="20210618171500 +0100" stop="20210618172800 +0100" channel="RTP 2">
+    <title lang="pt">O Vale Encantado</title>
+  </programme>
+  <programme start="20210618172800 +0100" stop="20210618173100 +0100" channel="RTP 2">
+    <title lang="pt">Molang</title>
+  </programme>
+  <programme start="20210618173100 +0100" stop="20210618174400 +0100" channel="RTP 2">
+    <title lang="pt">Floopaloo, Onde Estás Tu?</title>
+  </programme>
+  <programme start="20210618174400 +0100" stop="20210618175600 +0100" channel="RTP 2">
+    <title lang="pt">Floopaloo, Onde Estás Tu?</title>
+  </programme>
+  <programme start="20210618175600 +0100" stop="20210618180700 +0100" channel="RTP 2">
+    <title lang="pt">Vivi Vira Vento</title>
+  </programme>
+  <programme start="20210618180700 +0100" stop="20210618181800 +0100" channel="RTP 2">
+    <title lang="pt">Vivi Vira Vento</title>
+  </programme>
+  <programme start="20210618181800 +0100" stop="20210618182500 +0100" channel="RTP 2">
+    <title lang="pt">As Regras do Ângelo</title>
+  </programme>
+  <programme start="20210618182500 +0100" stop="20210618183300 +0100" channel="RTP 2">
+    <title lang="pt">As Regras do Ângelo</title>
+  </programme>
+  <programme start="20210618183300 +0100" stop="20210618185500 +0100" channel="RTP 2">
     <title lang="pt">As Aventuras de Ladybug</title>
   </programme>
-  <programme start="20210613130600 +0100" stop="20210613133500 +0100" channel="RTP 2">
+  <programme start="20210618185500 +0100" stop="20210618190700 +0100" channel="RTP 2">
+    <title lang="pt">Radar XS</title>
+  </programme>
+  <programme start="20210618190700 +0100" stop="20210618191900 +0100" channel="RTP 2">
+    <title lang="pt">Os Vizinhos Piratas</title>
+  </programme>
+  <programme start="20210618191900 +0100" stop="20210618193000 +0100" channel="RTP 2">
+    <title lang="pt">Os Vizinhos Piratas</title>
+  </programme>
+  <programme start="20210618193000 +0100" stop="20210618195200 +0100" channel="RTP 2">
+    <title lang="pt">Falar Para O Boneco</title>
+  </programme>
+  <programme start="20210618195200 +0100" stop="20210618202000 +0100" channel="RTP 2">
     <title lang="pt">Muito Fora</title>
   </programme>
-  <programme start="20210613133500 +0100" stop="20210613140600 +0100" channel="RTP 2">
-    <title lang="pt">Muito Fora</title>
+  <programme start="20210618202000 +0100" stop="20210618202700 +0100" channel="RTP 2">
+    <title lang="pt">Peanuts</title>
   </programme>
-  <programme start="20210613140600 +0100" stop="20210613143200 +0100" channel="RTP 2">
-    <title lang="pt">Encontra-me em Paris</title>
+  <programme start="20210618202700 +0100" stop="20210618203400 +0100" channel="RTP 2">
+    <title lang="pt">Banda Zig Zag</title>
   </programme>
-  <programme start="20210613143200 +0100" stop="20210613150000 +0100" channel="RTP 2">
-    <title lang="pt">Encontra-me em Paris</title>
+  <programme start="20210618203400 +0100" stop="20210618212500 +0100" channel="RTP 2">
+    <title lang="pt">Hotéis Extraordinários: A Vida Nos Bastidores</title>
   </programme>
-  <programme start="20210613150000 +0100" stop="20210613165800 +0100" channel="RTP 2">
-    <title lang="pt">Desporto 2</title>
+  <programme start="20210618212500 +0100" stop="20210618213000 +0100" channel="RTP 2">
+    <title lang="pt">Folha de Sala</title>
   </programme>
-  <programme start="20210613165800 +0100" stop="20210613172500 +0100" channel="RTP 2">
-    <title lang="pt">Caminhos</title>
-  </programme>
-  <programme start="20210613172500 +0100" stop="20210613175100 +0100" channel="RTP 2">
-    <title lang="pt">70x7</title>
-  </programme>
-  <programme start="20210613175100 +0100" stop="20210613184200 +0100" channel="RTP 2">
-    <title lang="pt">Nicolas Le Floch</title>
-  </programme>
-  <programme start="20210613184200 +0100" stop="20210613202300 +0100" channel="RTP 2">
-    <title lang="pt">Café</title>
-  </programme>
-  <programme start="20210613202300 +0100" stop="20210613213000 +0100" channel="RTP 2">
-    <title lang="pt">Chegou a Felicidade</title>
-  </programme>
-  <programme start="20210613213000 +0100" stop="20210613214800 +0100" channel="RTP 2">
+  <programme start="20210618213000 +0100" stop="20210618220100 +0100" channel="RTP 2">
     <title lang="pt">Jornal 2</title>
   </programme>
-  <programme start="20210613214800 +0100" stop="20210613220200 +0100" channel="RTP 2">
-    <title lang="pt">Página 2</title>
+  <programme start="20210618220100 +0100" stop="20210618225000 +0100" channel="RTP 2">
+    <title lang="pt">Os Anos Dos Milagres</title>
   </programme>
-  <programme start="20210613220200 +0100" stop="20210613230000 +0100" channel="RTP 2">
-    <title lang="pt">Voos Turbulentos</title>
+  <programme start="20210618225000 +0100" stop="20210619003200 +0100" channel="RTP 2">
+    <title lang="pt">Semana Sim, Semana Não</title>
   </programme>
-  <programme start="20210613230000 +0100" stop="20210614000000 +0100" channel="RTP 2">
-    <title lang="pt">Regina Spektor Em Concerto</title>
+  <programme start="20210618033000 +0100" stop="20210618041000 +0100" channel="SIC">
+    <title lang="pt">Passadeira Vermelha</title>
   </programme>
-  <programme start="20210613032000 +0100" stop="20210613054500 +0100" channel="SIC">
+  <programme start="20210618041000 +0100" stop="20210618053500 +0100" channel="SIC">
     <title lang="pt">Televendas</title>
   </programme>
-  <programme start="20210613054500 +0100" stop="20210613061500 +0100" channel="SIC">
+  <programme start="20210618053500 +0100" stop="20210618060000 +0100" channel="SIC">
     <title lang="pt">Camilo, O Presidente</title>
   </programme>
-  <programme start="20210613061500 +0100" stop="20210613070500 +0100" channel="SIC">
-    <title lang="pt">Guardiões da Galáxia - Missão Evasão</title>
+  <programme start="20210618060000 +0100" stop="20210618083500 +0100" channel="SIC">
+    <title lang="pt">Edição Da Manhã</title>
   </programme>
-  <programme start="20210613070500 +0100" stop="20210613090500 +0100" channel="SIC">
-    <title lang="pt">Uma Aventura</title>
+  <programme start="20210618083500 +0100" stop="20210618101000 +0100" channel="SIC">
+    <title lang="pt">Alô Portugal</title>
   </programme>
-  <programme start="20210613090500 +0100" stop="20210613121000 +0100" channel="SIC">
-    <title lang="pt">Olhá SIC!</title>
+  <programme start="20210618101000 +0100" stop="20210618130000 +0100" channel="SIC">
+    <title lang="pt">Casa Feliz</title>
   </programme>
-  <programme start="20210613121000 +0100" stop="20210613130000 +0100" channel="SIC">
-    <title lang="pt">Vida Selvagem</title>
-  </programme>
-  <programme start="20210613130000 +0100" stop="20210613141000 +0100" channel="SIC">
+  <programme start="20210618130000 +0100" stop="20210618145000 +0100" channel="SIC">
     <title lang="pt">Primeiro Jornal</title>
   </programme>
-  <programme start="20210613141000 +0100" stop="20210613144500 +0100" channel="SIC">
-    <title lang="pt">Fama Show</title>
+  <programme start="20210618145000 +0100" stop="20210618161000 +0100" channel="SIC">
+    <title lang="pt">Linha Aberta</title>
   </programme>
-  <programme start="20210613144500 +0100" stop="20210613195700 +0100" channel="SIC">
-    <title lang="pt">Domingão</title>
+  <programme start="20210618161000 +0100" stop="20210618182000 +0100" channel="SIC">
+    <title lang="pt">Júlia</title>
   </programme>
-  <programme start="20210613195700 +0100" stop="20210613214000 +0100" channel="SIC">
+  <programme start="20210618182000 +0100" stop="20210618185500 +0100" channel="SIC">
+    <title lang="pt">Viver a Vida</title>
+  </programme>
+  <programme start="20210618185500 +0100" stop="20210618192000 +0100" channel="SIC">
+    <title lang="pt">Orgulho e Paixão</title>
+  </programme>
+  <programme start="20210618192000 +0100" stop="20210618195000 +0100" channel="SIC">
     <title lang="pt">Jornal Da Noite</title>
   </programme>
-  <programme start="20210613214000 +0100" stop="20210614005500 +0100" channel="SIC">
-    <title lang="pt">Quem Quer Namorar Com O Agricultor?</title>
+  <programme start="20210618195000 +0100" stop="20210618220000 +0100" channel="SIC">
+    <title lang="pt">Inglaterra x Escócia - Euro 2020 (Direto)</title>
+  </programme>
+  <programme start="20210618220000 +0100" stop="20210618223500 +0100" channel="SIC">
+    <title lang="pt">Amor, Amor</title>
+  </programme>
+  <programme start="20210618223500 +0100" stop="20210618233000 +0100" channel="SIC">
+    <title lang="pt">A Serra</title>
+  </programme>
+  <programme start="20210618233000 +0100" stop="20210618234000 +0100" channel="SIC">
+    <title lang="pt">Quem Quer Namorar Com A Agricultora? - Diário</title>
+  </programme>
+  <programme start="20210618234000 +0100" stop="20210619002500 +0100" channel="SIC">
+    <title lang="pt">Tempo de Amar</title>
   </programme>
 </tv>
